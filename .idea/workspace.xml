@@ -2,15 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/array/A06两个数组的交集II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/array/A07加一.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/array/A08移动零.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/array/A09两数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/array/A10有效的数独.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/array/A11旋转图像.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/字符串/S01反转字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/字符串/S02整数反转.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/字符串/S03字符串中的第一个唯一字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/字符串/S04有效的字母异位词.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/字符串/S05验证回文字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/字符串/S06字符串转换整数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/字符串/S07实现strStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/字符串/S08报数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/字符串/S09最长公共前缀.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/array/A01从排序数组中删除重复项.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/array/A02买卖股票的最佳时机II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/array/A03旋转数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/array/A04存在重复.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/array/A05只出现一次的数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/array/A06两个数组的交集II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/sort/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/sort/Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/array/A01从排序数组中删除重复项.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/数组/A01从排序数组中删除重复项.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/array/A02买卖股票的最佳时机II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/数组/A02买卖股票的最佳时机II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/array/A03旋转数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/数组/A03旋转数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/array/A04存在重复.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/数组/A04存在重复.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/array/A05只出现一次的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/数组/A05只出现一次的数字.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/array/A06两个数组的交集II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/数组/A06两个数组的交集II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/array/A07加一.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/数组/A07加一.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/array/A08移动零.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/数组/A08移动零.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/array/A09两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/数组/A09两数之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/array/A10有效的数独.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/数组/A10有效的数独.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/array/A11旋转图像.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/数组/A11旋转图像.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/Sort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,54 +40,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/array/A07加一.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/array/A08移动零.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/array/A09两数之和.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/array/A10有效的数独.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="67" column="13" lean-forward="true" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/array/A11旋转图像.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/字符串/S02整数反转.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+            <state relative-caret-position="504">
+              <caret line="49" column="35" lean-forward="true" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -100,17 +78,29 @@
         <option value="$PROJECT_DIR$/src/leetcode/array/A04存在重复.java" />
         <option value="$PROJECT_DIR$/src/leetcode/array/A05只出现一次的数字.java" />
         <option value="$PROJECT_DIR$/src/leetcode/array/A06两个数组的交集II.java" />
-        <option value="$PROJECT_DIR$/src/sort/Sort.java" />
         <option value="$PROJECT_DIR$/src/leetcode/array/A07加一.java" />
         <option value="$PROJECT_DIR$/src/leetcode/array/A08移动零.java" />
         <option value="$PROJECT_DIR$/src/leetcode/array/A09两数之和.java" />
         <option value="$PROJECT_DIR$/src/leetcode/array/A10有效的数独.java" />
         <option value="$PROJECT_DIR$/src/leetcode/array/A11旋转图像.java" />
+        <option value="$PROJECT_DIR$/src/sort/Sort.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/数组/A01从排序数组中删除重复项.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/字符串/S01反转字符串.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/字符串/S02整数反转.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/字符串/S03字符串中的第一个唯一字符.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/字符串/S04有效的字母异位词.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/字符串/S05验证回文字符串.java" />
+        <option value="$PROJECT_DIR$/src/Tmp.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/字符串/S06字符串转换整数.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/字符串/S07实现strStr.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/字符串/S08报数.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/字符串/S09最长公共前缀.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="960" />
+    <option name="x" value="307" />
+    <option name="y" value="-9" />
     <option name="width" value="960" />
     <option name="height" value="1030" />
   </component>
@@ -119,7 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,25 +132,20 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="字符串" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551879696567" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551959529037" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -177,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Tmp">
     <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.Sort" />
       <module name="algorithm" />
@@ -191,8 +175,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tmp" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tmp" />
         <item itemvalue="Application.Sort" />
       </list>
     </recent_temporary>
@@ -208,18 +200,19 @@
       <option name="presentableId" value="Default" />
       <updated>1551797698155</updated>
       <workItem from="1551797699430" duration="1836000" />
-      <workItem from="1551848711220" duration="14400000" />
+      <workItem from="1551848711220" duration="16977000" />
+      <workItem from="1551921645459" duration="10226000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16236000" />
+    <option name="totallyTimeSpent" value="29039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22252011" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23592493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -229,7 +222,7 @@
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.33569404" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32719547" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.37818697" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -237,7 +230,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.28895184" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -249,6 +242,37 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38727525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.32808024" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.37818697" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.28895184" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -256,7 +280,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/leetcode/array/string/S01.java" />
     <entry file="file://$PROJECT_DIR$/src/leetcode/array/ggj.java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/A04存在重复.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/数组/A04存在重复.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-223">
           <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
@@ -266,35 +290,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/A02买卖股票的最佳时机II.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/数组/A02买卖股票的最佳时机II.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/A01从排序数组中删除重复项.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/A03旋转数组.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/数组/A03旋转数组.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-531">
           <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/A05只出现一次的数字.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/数组/A05只出现一次的数字.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-371">
           <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/A06两个数组的交集II.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/数组/A06两个数组的交集II.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
@@ -304,34 +321,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/Sort.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/数组/A07加一.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="method#straightInsertSort#0;class#Sort#0" />
-            <element signature="method#getRandomArray#0;class#Sort#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/A07加一.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
+        <state relative-caret-position="550">
           <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/A08移动零.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/数组/A08移动零.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
+        <state relative-caret-position="1100">
           <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/A09两数之和.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/数组/A09两数之和.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
+        <state relative-caret-position="836">
           <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -339,20 +345,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/A10有效的数独.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/数组/A10有效的数独.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="67" column="13" lean-forward="true" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+        <state relative-caret-position="1694">
+          <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/array/A11旋转图像.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/数组/A11旋转图像.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        <state relative-caret-position="220">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/数组/A01从排序数组中删除重复项.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="method#straightInsertSort#0;class#Sort#0" />
+            <element signature="method#getRandomArray#0;class#Sort#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/字符串/S03字符串中的第一个唯一字符.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/字符串/S04有效的字母异位词.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="53" column="54" lean-forward="true" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/字符串/S05验证回文字符串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/字符串/S06字符串转换整数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/字符串/S07实现strStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/字符串/S08报数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/字符串/S09最长公共前缀.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/字符串/S01反转字符串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/字符串/S02整数反转.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="49" column="35" lean-forward="true" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
         </state>
       </provider>
     </entry>

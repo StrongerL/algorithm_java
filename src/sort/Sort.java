@@ -17,23 +17,7 @@ public class Sort {
 
         System.out.println(Arrays.toString(randomArray));
 
-        test();
-
     }
-
-    public static void test(){
-
-        Set<Character> strings = new HashSet<>();
-        strings.add('a');
-        System.out.println(strings.add('b'));
-        strings.clear();
-        System.out.println('a' == 'a');
-
-
-
-    }
-
-
 
     /**
      * 直接插入排序
@@ -111,6 +95,7 @@ public class Sort {
 
             d /= 2;
         }
+
     }
 
 
