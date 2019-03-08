@@ -4,16 +4,12 @@ public class Tmp {
     public static void main(String[] args) {
 
 
-        System.out.println(Long.MAX_VALUE);
+//        String s = "123";
+//        String c = s;
+//        s = "64546";
+//        System.out.println(c);
 
-        int a = (int) Math.pow(2, 31);
 
-        System.out.println(a);
-
-        String s = "      d";
-        System.out.println(s.trim());
-
-        System.out.println("1220" + 1 + 3);
 
     }
 

@@ -1,4 +1,4 @@
-package leetcode.数组;
+package leetcode.初级算法.数组;
 
 /**
  * 旋转图像

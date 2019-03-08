@@ -1,4 +1,4 @@
-package leetcode.字符串;
+package leetcode.初级算法.字符串;
 
 /**
  * 反转字符串
