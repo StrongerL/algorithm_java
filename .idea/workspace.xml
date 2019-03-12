@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/初级算法/树/T01二叉树的最大深度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/初级算法/树/T02验二叉搜索树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/初级算法/树/T03对称二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/初级算法/树/T04二叉树的层次遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/初级算法/树/T05将有序数组转换为二叉搜索树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/初级算法/动态规划/D01爬楼梯.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/初级算法/动态规划/D02买卖股票的最佳时机.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/初级算法/动态规划/D03最大子序和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/初级算法/动态规划/D04打家劫舍.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/初级算法/排序和搜索/S01合并两个有序数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/初级算法/排序和搜索/S02第一个错误的版本.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,6 +74,12 @@
         <option value="$PROJECT_DIR$/src/leetcode/初级算法/树/T03对称二叉树.java" />
         <option value="$PROJECT_DIR$/src/leetcode/初级算法/树/T04二叉树的层次遍历.java" />
         <option value="$PROJECT_DIR$/src/leetcode/初级算法/树/T05将有序数组转换为二叉搜索树.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/初级算法/排序和搜索/S01合并两个有序数组.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/初级算法/排序和搜索/S02第一个错误的版本.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/初级算法/动态规划/D01爬楼梯.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/初级算法/动态规划/D02买卖股票的最佳时机.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/初级算法/动态规划/D03最大子序和.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/初级算法/动态规划/D04打家劫舍.java" />
       </list>
     </option>
   </component>
@@ -87,7 +94,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,17 +112,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="初级算法" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552231904939" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552364862636" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -175,17 +188,18 @@
       <workItem from="1551921645459" duration="10596000" />
       <workItem from="1552023084091" duration="3476000" />
       <workItem from="1552140471380" duration="795000" />
-      <workItem from="1552188680469" duration="2197000" />
+      <workItem from="1552188680469" duration="2288000" />
+      <workItem from="1552358382185" duration="2255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35877000" />
+    <option name="totallyTimeSpent" value="38223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17158177" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16554959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -203,7 +217,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.38101983" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.38048092" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -339,17 +353,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-          <folding>
-            <element signature="method#straightInsertSort#0;class#Sort#0" />
-            <element signature="method#getRandomArray#0;class#Sort#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -507,6 +510,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/排序和搜索/S01合并两个有序数组.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/排序和搜索/S02第一个错误的版本.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/动态规划/D01爬楼梯.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/动态规划/D02买卖股票的最佳时机.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/动态规划/D03最大子序和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/动态规划/D04打家劫舍.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="method#straightInsertSort#0;class#Sort#0" />
+            <element signature="method#getRandomArray#0;class#Sort#0" />
+          </folding>
         </state>
       </provider>
     </entry>
