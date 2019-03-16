@@ -22,7 +22,6 @@ package leetcode.初级算法.树;
 public class T05将有序数组转换为二叉搜索树 {
 
     public TreeNode sortedArrayToBST(int[] nums) {
-
         return sortedArrayToBST(nums, 0, nums.length - 1);
     }
 
