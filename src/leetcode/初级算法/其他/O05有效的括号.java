@@ -36,7 +36,7 @@ import java.util.Stack;
  * 输出: true
  */
 
-public class O5有效的括号 {
+public class O05有效的括号 {
 
     public boolean isValid(String s) {
 

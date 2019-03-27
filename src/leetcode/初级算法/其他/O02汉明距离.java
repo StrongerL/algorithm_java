@@ -23,7 +23,7 @@ package leetcode.初级算法.其他;
  * 上面的箭头指出了对应二进制位不同的位置。
  */
 
-public class O2汉明距离 {
+public class O02汉明距离 {
 
     public int hammingDistance(int x, int y) {
 

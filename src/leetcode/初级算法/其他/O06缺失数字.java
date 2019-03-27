@@ -16,7 +16,7 @@ package leetcode.初级算法.其他;
  * 你的算法应具有线性时间复杂度。你能否仅使用额外常数空间来实现?
  */
 
-public class O6缺失数字 {
+public class O06缺失数字 {
 
     public int missingNumber(int[] nums) {
 

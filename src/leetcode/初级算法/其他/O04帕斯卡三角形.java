@@ -24,7 +24,7 @@ import java.util.List;
  * ]
  */
 
-public class O4帕斯卡三角形 {
+public class O04帕斯卡三角形 {
 
     public List<List<Integer>> generate(int numRows) {
 

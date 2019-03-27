@@ -30,7 +30,7 @@ package leetcode.初级算法.其他;
  * 如果多次调用这个函数，你将如何优化你的算法？
  */
 
-public class O3颠倒二进制位 {
+public class O03颠倒二进制位 {
 
     // you need treat n as an unsigned value
     public int reverseBits(int n) {
