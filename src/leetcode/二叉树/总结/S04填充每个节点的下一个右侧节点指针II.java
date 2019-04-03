@@ -45,50 +45,56 @@ public class S04填充每个节点的下一个右侧节点指针II {
 
 
         // 递归
-//         if (root == null) return root;
-//         Node p = root.next;
-
-//         while (p != null) {
-//             if (p.left != null) {
-//                 p = p.left;
-//                 break;
-//             }
-//             if (p.right != null) {
-//                 p = p.right;
-//                 break;
-//             }
-//             p = p.next;
-//         }
-
-//         if (root.left != null) root.left.next = (root.right != null) ? root.right : p;
-//         if (root.right != null) root.right.next = p;
-
-//         // 顺序不可变
-//         connect(root.right);
-//         connect(root.left);
-
-//         return root;
+//        if (root == null) return root;
+//        Node p = root.next;
+//        Node next = null;
+//
+//        while (p != null) {
+//            if (p.left != null) {
+//                next = p.left;
+//                break;
+//            }
+//            if (p.right != null) {
+//                next = p.right;
+//                break;
+//            }
+//            p = p.next;
+//        }
+//
+//        if (root.left != null)
+//            root.left.next = (root.right == null) ? next : root.right;
+//        if (root.right != null)
+//            root.right.next = next;
+//
+//        // 右边必须已经连接好，所以先递归右子树
+//        connect(root.right);
+//        connect(root.left);
+//
+//        return root;
 
 
         // 深度指针 + 层次指针
-        Node dummpy = new Node(0);
-        Node cur = dummpy;
-        Node p = root;
-        while (p != null) {
-            if (p.left != null) {
-                cur.next = p.left;
+        Node start = new Node(0);
+        // 遍历当前层
+        Node parent = root;
+        // 遍历儿子节点层，即当前层的下一层
+        Node cur = start;
+        while (parent != null) {
+            if (parent.left != null) {
+                cur.next = parent.left;
                 cur = cur.next;
             }
-            if (p.right != null) {
-                cur.next = p.right;
+            if (parent.right != null) {
+                cur.next = parent.right;
                 cur = cur.next;
             }
-            p = p.next;
-            if (p == null) {
-                cur = dummpy;
-                p = cur.next;
-                // 不写会进入死循环
-                cur.next = null;
+            parent = parent.next;
+            // 如果当前层无更多节点，parent和cur都下降一层
+            if (parent == null) {
+                parent = start.next;
+
+                start.next = null;
+                cur = start;
             }
         }
 

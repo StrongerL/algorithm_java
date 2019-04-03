@@ -46,12 +46,40 @@ public class T04二叉树的后序遍历 {
                 root = root.left;
             }
         }
-
         while (!ss.isEmpty()) {
             t.add(ss.pop().val);
         }
-
         return t;
+
+        // 非递归，保存前一个节点
+//        List<Integer> t = new LinkedList<>();
+//        if (root == null) return t;
+//        Stack<TreeNode> s = new Stack<>();
+//        TreeNode pre = null;
+//        TreeNode cur = null;
+//        s.push(root);
+//
+//        while (!s.isEmpty()) {
+//            cur = s.peek();
+//            if (pre == null || pre.left == cur || pre.right == cur) {
+//                if (cur.left != null) {
+//                    s.push(cur.left);
+//                } else if (cur.right != null) {
+//                    s.push(cur.right);
+//                }
+//            } else if (pre == cur.left) {
+//                if (cur.right != null) {
+//                    s.push(cur.right);
+//                }
+//            }
+//            else {
+//                cur = s.pop();
+//                t.add(cur.val);
+//            }
+//
+//            pre = cur;
+//        }
+//        return t;
 
 
     }

@@ -62,7 +62,7 @@ public class S06二叉树的序列化与反序列化 {
     public TreeNode deserialize(Queue<String> q) {
 
         String s = q.poll();
-        if (s.equals("#")) return null;
+        if (s == null || s.equals("#")) return null;
         TreeNode root = new TreeNode(Integer.parseInt(s));
         root.left = deserialize(q);
         root.right = deserialize(q);

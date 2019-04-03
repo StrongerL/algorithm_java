@@ -39,17 +39,33 @@ public class T02二叉树的前序遍历 {
         // return t;
 
         // 非递归
-        List<Integer> t = new LinkedList<>();
-        Stack<TreeNode> s = new Stack();
-        if (root == null) return t;
-        s.push(root);
-        while (!s.isEmpty()) {
-            TreeNode tmp = s.pop();
-            t.add(tmp.val);
-            if (tmp.right != null) s.push(tmp.right);
-            if (tmp.left != null) s.push(tmp.left);
-        }
-        return t;
+//        List<Integer> t = new LinkedList<>();
+//        Stack<TreeNode> s = new Stack();
+//        if (root == null) return t;
+//        s.push(root);
+//        while (!s.isEmpty()) {
+//            TreeNode tmp = s.pop();
+//            t.add(tmp.val);
+//            if (tmp.right != null) s.push(tmp.right);
+//            if (tmp.left != null) s.push(tmp.left);
+//        }
+//        return t;
+
+
+//         非递归2
+         List<Integer> t = new LinkedList<>();
+         Stack<TreeNode> s = new Stack<>();
+         while (root != null || !s.isEmpty()) {
+             if (root != null) {
+                 t.add(root.val);
+                 s.push(root);
+                 root = root.left;
+             } else {
+                 root = s.pop();
+                 root = root.right;
+             }
+         }
+         return t;
 
     }
 

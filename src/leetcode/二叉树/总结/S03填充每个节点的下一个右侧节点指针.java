@@ -76,7 +76,7 @@ public class S03填充每个节点的下一个右侧节点指针 {
         return root;
 
 
-        // 3. 深度指针+层次指针
+        // 3. 深度指针+层次指针写法1
         // if (root == null) return root;
         // Node cur = null;
         // Node start = root;
@@ -91,6 +91,24 @@ public class S03填充每个节点的下一个右侧节点指针 {
         //     start = start.left;
         // }
         // return root;
+
+        // 3. 深度指针+层次指针写法2
+//        Node start = root, cur = null;
+//        while (start != null) {
+//            cur = start;
+//            while (cur != null) {
+//                if (cur.left != null) {
+//                    cur.left.next = cur.right;
+//                    if (cur.next != null) {
+//                        cur.right.next = cur.next.left;
+//                    }
+//                }
+//                cur = cur.next;
+//            }
+//            start = start.left;
+//        }
+//
+//        return root;
 
     }
 

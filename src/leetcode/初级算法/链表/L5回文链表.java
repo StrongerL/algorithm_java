@@ -20,36 +20,35 @@ public class L5回文链表 {
 
     public boolean isPalindrome(ListNode head) {
 
-        // 空链或者只有一个元素
         if (head == null || head.next == null) return true;
 
-        // 使用快慢指针找到中点
-        ListNode fast = head;
-        ListNode slow = head;
+        // 得出中间的数，如果链表长度为单数，那么slow就是中间的数，如果为双数，那么slow和slow.next为中间的数
+        ListNode fast = head, slow = head;
         while (fast.next != null && fast.next.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
 
-        // 对后半部分反转
-        ListNode mid = slow.next;
-        ListNode p = mid;
-        ListNode q = p.next;
+        // 翻转右半部分
+        ListNode left = head, right = slow.next;
+        ListNode p = right, q = p.next;
         while (q != null) {
             p.next = q.next;
-            q.next = mid;
-            mid = q;
+            q.next = right;
+            right = q;
             q = p.next;
         }
 
-        // 两个指针对比元素
-        while (mid != null) {
-            if (head.val != mid.val) return false;
-            mid = mid.next;
-            head = head.next;
+        // 比较
+        while (right != null) {
+            if (left.val != right.val)
+                return false;
+            left = left.next;
+            right = right.next;
         }
 
         return true;
+
 
     }
 
