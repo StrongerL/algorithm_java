@@ -53,7 +53,7 @@ import java.util.Scanner;
 10
 */
 
-public class 腾讯笔试编程题1 {
+public class 腾讯笔试编程题1马云硬币 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

@@ -6,23 +6,20 @@ public class Tmp {
 
     public static void main(String[] args) {
 
-        Comparator<Integer> cmp = new Comparator<Integer>() {
-            @Override
-            public int compare(Integer o1, Integer o2) {
-                return o2 - o1;
-            }
-        };
+        int[] a = new int[10];
+        int[][] b = new int[10][10];
 
-        Queue<Integer> q  = new PriorityQueue<>(cmp);
+        test(a, b);
 
-        q.offer(10);
-        q.offer(20);
-
-        System.out.println(q.peek());
+        System.out.println(a[0]);
+        System.out.println(b[0][0]);
+    }
 
 
+    private static void test(int[] a, int[][] b) {
 
-
+        a[0] = 1;
+        b[0][0] = 1;
     }
 
 }
