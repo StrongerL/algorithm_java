@@ -31,7 +31,7 @@ public class 最长上升子序列 {
         // 得出最长上升子序列长度
         int max;
         for (int i = 1; i < n; i++) {
-            max = -1;
+            max = 0;
             for (int j = 0; j < i; j++) {
                 if (nums[i] > nums[j] && res[j] > max) {
                     max = res[j];
