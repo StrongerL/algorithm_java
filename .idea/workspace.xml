@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/动态规划/合唱队形.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/背包01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/二叉树/路径/BinaryTreePaths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/Tmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/Tmp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/动态规划/最长上升子序列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/动态规划/最长上升子序列.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/动态规划/最长上升子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/动态规划/最长上升子序列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/动态规划/背包01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/动态规划/背包01.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,12 +28,12 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/动态规划/背包01.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/二叉树/路径/BinaryTreePaths.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+            <state relative-caret-position="836">
+              <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,9 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/二叉树/总结/T02二叉树的前序遍历.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/二叉树/树的遍历/T03中序遍历二叉树.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/二叉树/树的遍历/T04二叉树的后续遍历.java" />
         <option value="$PROJECT_DIR$/src/leetcode/二叉树/树的遍历/T06二叉树的层次遍历.java" />
         <option value="$PROJECT_DIR$/src/leetcode/二叉树/运用递归解决问题/R01二叉树的最大深度.java" />
         <option value="$PROJECT_DIR$/src/leetcode/二叉树/运用递归解决问题/R02对称二叉树.java" />
@@ -109,7 +102,6 @@
         <option value="$PROJECT_DIR$/src/leetcode/二叉树/总结/S04填充每个节点的下一个右侧节点指针II.java" />
         <option value="$PROJECT_DIR$/src/leetcode/二叉树/总结/S06二叉树的序列化与反序列化.java" />
         <option value="$PROJECT_DIR$/src/leetcode/初级算法/链表/L5回文链表.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/贪心/腾讯笔试编程题1.java" />
         <option value="$PROJECT_DIR$/src/贪心/腾讯笔试编程题1马云硬币.java" />
         <option value="$PROJECT_DIR$/src/动态规划/城市路径.java" />
@@ -117,21 +109,25 @@
         <option value="$PROJECT_DIR$/src/动态规划/最长上升子序列.java" />
         <option value="$PROJECT_DIR$/src/动态规划/合唱队形.java" />
         <option value="$PROJECT_DIR$/src/动态规划/背包01.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/点与多边形.java" />
+        <option value="$PROJECT_DIR$/src/数学/点与多边形.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/二叉树/路径/BinaryTreePaths.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,7 +144,14 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,7 +162,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554689889471" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554819131699" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -175,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.背包01">
+  <component name="RunManager" selected="Application.点与多边形">
     <configuration name="城市路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="动态规划.城市路径" />
       <module name="algorithm" />
@@ -198,6 +201,20 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="点与多边形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数学.点与多边形" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tmp" />
+      <module name="algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -228,13 +245,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tmp" />
-      <module name="algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="最长上升子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="动态规划.最长上升子序列" />
       <module name="algorithm" />
@@ -250,9 +260,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.点与多边形" />
         <item itemvalue="Application.背包01" />
-        <item itemvalue="Application.合唱队形" />
-        <item itemvalue="Application.最长上升子序列" />
         <item itemvalue="Application.Tmp" />
         <item itemvalue="Application.城市路径" />
       </list>
@@ -305,28 +314,31 @@
       <workItem from="1554538110943" duration="2865000" />
       <workItem from="1554597623105" duration="8675000" />
       <workItem from="1554621405050" duration="8520000" />
-      <workItem from="1554684902981" duration="4911000" />
+      <workItem from="1554684902981" duration="5159000" />
+      <workItem from="1554775406146" duration="1190000" />
+      <workItem from="1554806612847" duration="6807000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157964000" />
+    <option name="totallyTimeSpent" value="166209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49150142" visible="true" weight="0.18230563" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49150142" visible="true" weight="0.16621985" />
       <window_info id="Structure" order="1" sideWeight="0.5084986" side_tool="true" weight="0.15951742" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Duplicate detector" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.43909347" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.37818697" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.37818697" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -351,13 +363,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/设计问题/D02最小栈.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/数学/M01FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
@@ -655,7 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/贪心/力扣871最低加油次数.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -758,8 +762,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/动态规划/背包01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+        <state relative-caret-position="66">
+          <caret line="37" column="40" lean-forward="true" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数学/点与多边形.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2072">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/二叉树/路径/BinaryTreePaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="18" lean-forward="true" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
