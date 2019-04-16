@@ -48,7 +48,7 @@ public class S06二叉树的序列化与反序列化 {
 //     }
 
 
-    // 递归序列化
+    // 递归反序列化
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
 
