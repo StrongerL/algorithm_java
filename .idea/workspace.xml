@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/算法面试题汇总/字符串/单词拆分.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/DP62不同路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/DP63不同路径II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/DP64最小路径和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/面试经历/修改矩阵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/面试经历/切割树.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/Tmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/Tmp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tmp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,26 +33,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tmp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/算法面试题汇总/字符串/单词拆分.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,11 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/二叉树/总结/S02从前序与中序遍历序列构造二叉树.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/二叉树/总结/S05二叉树的最近公共祖先.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/初级算法/设计问题/D01ShuffleAnArray.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/初级算法/设计问题/D02最小栈.java" />
-        <option value="$PROJECT_DIR$/src/B.java" />
         <option value="$PROJECT_DIR$/src/A.java" />
         <option value="$PROJECT_DIR$/src/leetcode/初级算法/数学/M01FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/leetcode/初级算法/数学/M02计数质数.java" />
@@ -117,8 +98,13 @@
         <option value="$PROJECT_DIR$/src/leetcode/算法面试题汇总/开始之前/合并两个有序数组.java" />
         <option value="$PROJECT_DIR$/src/leetcode/算法面试题汇总/开始之前/鸡蛋掉落.java" />
         <option value="$PROJECT_DIR$/src/leetcode/算法面试题汇总/字符串/分割回文串.java" />
-        <option value="$PROJECT_DIR$/src/Tmp.java" />
         <option value="$PROJECT_DIR$/src/leetcode/算法面试题汇总/字符串/单词拆分.java" />
+        <option value="$PROJECT_DIR$/src/Tmp.java" />
+        <option value="$PROJECT_DIR$/src/修改矩阵.java" />
+        <option value="$PROJECT_DIR$/src/切割树.java" />
+        <option value="$PROJECT_DIR$/src/动态规划/DP62不同路径.java" />
+        <option value="$PROJECT_DIR$/src/动态规划/DP63不同路径II.java" />
+        <option value="$PROJECT_DIR$/src/动态规划/DP64最小路径和.java" />
       </list>
     </option>
   </component>
@@ -149,22 +135,7 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="算法面试题汇总" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="算法面试题汇总" type="462c0819:PsiDirectoryNode" />
-              <item name="字符串" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555690094101" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556678490815" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../travelbyex" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -235,6 +206,13 @@
     </configuration>
     <configuration name="Tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tmp" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="切割树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="切割树" />
       <module name="algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -361,12 +339,17 @@
       <workItem from="1555385552418" duration="681000" />
       <workItem from="1555475547894" duration="1343000" />
       <workItem from="1555485193574" duration="1139000" />
-      <workItem from="1555685292189" duration="1036000" />
+      <workItem from="1555685292189" duration="1137000" />
+      <workItem from="1555733188326" duration="738000" />
+      <workItem from="1555919270073" duration="604000" />
+      <workItem from="1556017191237" duration="4441000" />
+      <workItem from="1556029167197" duration="125000" />
+      <workItem from="1556675868966" duration="2990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193243000" />
+    <option name="totallyTimeSpent" value="202242000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -379,9 +362,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48190045" visible="true" weight="0.20241287" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48190045" visible="true" weight="0.18230563" />
       <window_info id="Structure" order="1" sideWeight="0.51809955" side_tool="true" weight="0.1997319" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -391,7 +373,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.37393767" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3838527" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.37818697" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -399,7 +381,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.40651557" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.4059406" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -449,46 +431,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test.js" />
-    <entry file="file://$PROJECT_DIR$/src/贪心.java" />
-    <entry file="file://$PROJECT_DIR$/src/回溯/字符串数组首尾相连.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/回溯/Permutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/回溯/N后问题.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/链表/L5回文链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/链表/L3反转链表.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
@@ -834,17 +776,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tmp.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/算法面试题汇总/字符串/单词拆分.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="261">
+          <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/算法面试题汇总/字符串/单词拆分.java">
+    <entry file="file://$PROJECT_DIR$/src/切割数.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/面试经历/切割树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="58" column="3" lean-forward="true" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
+          <folding>
+            <element signature="docComment;class#切割树#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/二叉树/总结/S02从前序与中序遍历序列构造二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/面试经历/修改矩阵.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/动态规划/DP63不同路径II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/动态规划/DP62不同路径.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/动态规划/DP64最小路径和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
         </state>
       </provider>
     </entry>
