@@ -21,12 +21,7 @@ import java.util.Stack;
  * 进阶: 递归算法很简单，你可以通过迭代算法完成吗？
  */
 
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x) { val = x; }
-}
+
 
 public class T02二叉树的前序遍历 {
 
