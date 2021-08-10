@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/动态规划/DP62不同路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/DP63不同路径II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/DP64最小路径和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/面试经历/修改矩阵.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/面试经历/切割树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/Tmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/Tmp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +22,6 @@
     </option>
     <expand />
     <select />
-  </component>
-  <component name="FileEditorManager">
-    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -108,10 +96,16 @@
       </list>
     </option>
   </component>
+  <component name="KotlinMultiplatform">
+    <allAvailableExecutables />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -151,18 +145,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../travelbyex" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.Tmp">
     <configuration name="城市路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -429,6 +411,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/链表/L3反转链表.java">
