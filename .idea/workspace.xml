@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="更新readme文件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/sort/Sort2.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/Sort2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +154,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Sort">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="切割树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="切割树" />
       <module name="algorithm" />
@@ -266,8 +263,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sort" />
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Sort" />
         <item itemvalue="Application.Tmp" />
         <item itemvalue="Application.最大K乘积" />
         <item itemvalue="Application.背包01" />
@@ -353,7 +350,9 @@
       <workItem from="1629168739818" duration="219000" />
       <workItem from="1629170454861" duration="1313000" />
       <workItem from="1629259438875" duration="132000" />
-      <workItem from="1629338649742" duration="633000" />
+      <workItem from="1629338649742" duration="688000" />
+      <workItem from="1629423073725" duration="5673000" />
+      <workItem from="1629686812378" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="更新readme文件">
       <created>1628567685758</created>
@@ -362,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628567685758</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="更新readme文件">
+      <created>1629343282265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629343282265</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
