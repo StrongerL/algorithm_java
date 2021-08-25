@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="更新readme文件">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="更新readme文件" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -353,6 +349,7 @@
       <workItem from="1629338649742" duration="688000" />
       <workItem from="1629423073725" duration="5673000" />
       <workItem from="1629686812378" duration="13000" />
+      <workItem from="1629686853929" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="更新readme文件">
       <created>1628567685758</created>
@@ -368,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629343282265</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新readme文件">
+      <created>1629686932659</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629686932659</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
