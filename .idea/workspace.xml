@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="【312】戳气球">
+    <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="【322】零钱兑换">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/Tmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/Tmp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tmp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +155,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Tmp">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="最长上升子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="动态规划.最长上升子序列" />
       <module name="algorithm" />
@@ -255,10 +257,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Tmp" />
         <item itemvalue="Application.背包01" />
         <item itemvalue="Application.最长上升子序列" />
-        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Sort" />
       </list>
     </recent_temporary>
@@ -350,7 +352,8 @@
       <workItem from="1629948044778" duration="2148000" />
       <workItem from="1630033523300" duration="58000" />
       <workItem from="1630293187202" duration="60000" />
-      <workItem from="1630374953362" duration="2656000" />
+      <workItem from="1630374953362" duration="2701000" />
+      <workItem from="1630635898024" duration="6637000" />
     </task>
     <task id="LOCAL-00001" summary="更新readme文件">
       <created>1628567685758</created>
@@ -401,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630293236250</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="【322】零钱兑换">
+      <created>1630378581601</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1630378581601</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -504,7 +514,8 @@
     <MESSAGE value="【287】寻找重复数&#10;【300】最长递增子序列" />
     <MESSAGE value="【309】最佳买卖股票时机含冷冻期" />
     <MESSAGE value="【312】戳气球" />
-    <option name="LAST_COMMIT_MESSAGE" value="【312】戳气球" />
+    <MESSAGE value="【322】零钱兑换" />
+    <option name="LAST_COMMIT_MESSAGE" value="【322】零钱兑换" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/链表/L3反转链表.java">

@@ -29,50 +29,83 @@
 // 👍 1235 👎 0
 
 
+import java.util.Deque;
+import java.util.LinkedList;
 import java.util.Random;
 
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
 
+//    测试用例:"2[2[y]pq4[2[jk]e1[f]]]ef"
+//    测试结果:"yypqjkjkefefefefpqjkjkefefefefef"
+//    期望结果:"yypqjkjkefjkjkefjkjkefjkjkefyypqjkjkefjkjkefjkjkefjkjkefef"
+
     public static void main(String[] args) {
+
         Solution s = new Solution();
-        System.out.println(s.findKthLargest(new int[]{3,2,3,1,2,4,5,5,6}, 4));
+        System.out.println(s.decodeString("2[2[y]pq4[2[jk]e1[f]]]ef").equals("yypqjkjkefjkjkefjkjkefjkjkefyypqjkjkefjkjkefjkjkefjkjkefef"));
+        System.out.println("yypqjkjkefjkjkefjkjkefjkjkefyypqjkjkefjkjkefjkjkefjkjkefef");
     }
 
-    public int findKthLargest(int[] nums, int k) {
-        quickSort(nums, 0, nums.length - 1);
-        return nums[nums.length - k];
-    }
 
-    private void quickSort(int[] nums, int left, int right) {
-        if (left > right) {
-            return;
-        }
-        int pivot = partition(nums, left, right);
-        quickSort(nums, left, pivot - 1);
-        quickSort(nums, pivot + 1, right);
-    }
+    public String decodeString(String s) {
 
-    private int partition(int[] nums, int left, int right) {
-//        Random random = new Random();
-//        int idx = left + random.nextInt(right - left + 1);
-//        int tmp = nums[left];
-//        nums[left] = nums[idx];
-//        nums[idx] = tmp;
+        char[] chars = s.toCharArray();
+        Deque<Integer> numStack = new LinkedList<>();
+        Deque<StringBuilder> stringStack = new LinkedList<>();
+        StringBuilder ans = new StringBuilder();
 
-        int pivot = nums[left];
-        while (left < right) {
-            while (left < right && nums[right] >= pivot) {
-                right--;
+        int i = 0;
+        while (i < s.length()) {
+            if (Character.isDigit(chars[i])) {
+                int len = getNumberLength(chars, i);
+                int num = Integer.parseInt(String.valueOf(chars, i, len));
+                numStack.push(num);
+                if (numStack.size() > stringStack.size() + 1) {
+                    stringStack.push(new StringBuilder());
+                }
+                i += len - 1;
+            } else if (Character.isLetter(chars[i])) {
+                int len = getStringLength(chars, i);
+                String currentString = String.valueOf(chars, i, len);
+                if (numStack.isEmpty()) {
+                    ans.append(currentString);
+                } else if (numStack.size() == stringStack.size()) {
+                    stringStack.peek().append(currentString);
+                } else {
+                    stringStack.push(new StringBuilder(currentString));
+                }
+                i += len - 1;
+            } else if (chars[i] == ']') {
+                String currentString = stringStack.pop().toString();
+                int count = numStack.pop();
+                StringBuilder sb = stringStack.isEmpty() ? ans : stringStack.peek();
+                for (int j = 0; j < count; j++) {
+                    sb.append(currentString);
+                }
             }
-            nums[left] = nums[right];
-            while (left < right && nums[left] < pivot) {
-                left++;
-            }
-            nums[right] = nums[left];
+            i++;
         }
-        nums[left] = pivot;
-        return left;
+
+        return ans.toString();
+    }
+
+    private int getNumberLength(char[] chars, int i) {
+        int len = 0;
+        while (i < chars.length && Character.isDigit(chars[i])) {
+            len++;
+            i++;
+        }
+        return len;
+    }
+
+    private int getStringLength(char[] chars, int i) {
+        int len = 0;
+        while (i < chars.length && Character.isLetter(chars[i])) {
+            len++;
+            i++;
+        }
+        return len;
     }
 
 
