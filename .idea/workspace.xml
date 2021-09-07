@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="【394】字符串解码">
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/Tmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/Tmp.class" afterDir="false" />
-    </list>
+    <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="【399】除法求值" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -356,6 +354,7 @@
       <workItem from="1630293187202" duration="60000" />
       <workItem from="1630374953362" duration="2701000" />
       <workItem from="1630635898024" duration="6956000" />
+      <workItem from="1630899485926" duration="127000" />
     </task>
     <task id="LOCAL-00001" summary="更新readme文件">
       <created>1628567685758</created>
@@ -420,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630650281348</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="【399】除法求值">
+      <created>1630899566781</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1630899566781</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -525,7 +531,8 @@
     <MESSAGE value="【312】戳气球" />
     <MESSAGE value="【322】零钱兑换" />
     <MESSAGE value="【394】字符串解码" />
-    <option name="LAST_COMMIT_MESSAGE" value="【394】字符串解码" />
+    <MESSAGE value="【399】除法求值" />
+    <option name="LAST_COMMIT_MESSAGE" value="【399】除法求值" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/链表/L3反转链表.java">
