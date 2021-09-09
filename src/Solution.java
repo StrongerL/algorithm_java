@@ -28,86 +28,69 @@
 // Related Topics 数组 分治 快速选择 排序 堆（优先队列） 
 // 👍 1235 👎 0
 
-
-import java.util.Deque;
-import java.util.LinkedList;
-import java.util.Random;
-
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
 
-//    测试用例:"2[2[y]pq4[2[jk]e1[f]]]ef"
-//    测试结果:"yypqjkjkefefefefpqjkjkefefefefef"
-//    期望结果:"yypqjkjkefjkjkefjkjkefjkjkefyypqjkjkefjkjkefjkjkefjkjkefef"
+
+class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+
+    TreeNode() {
+    }
+
+    TreeNode(int val) {
+        this.val = val;
+    }
+
+    TreeNode(int val, TreeNode left, TreeNode right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
+    }
+}
+
+public class Solution {
+
+    int ans = 0;
+    int targetSum;
+
+    public int pathSum(TreeNode root, int targetSum) {
+        if (root == null) {
+            return 0;
+        }
+        this.targetSum = targetSum;
+        dfs(root, 0);
+        return ans;
+    }
+
+    private void dfs(TreeNode node, int sum) {
+        if (node == null) {
+            return;
+        }
+        if (sum + node.val == targetSum) {
+            ans++;
+        }
+        dfs(node.left, sum + node.val);
+        dfs(node.right, sum + node.val);
+        dfs(node.left, 0);
+        dfs(node.right, 0);
+    }
+
 
     public static void main(String[] args) {
 
         Solution s = new Solution();
-        System.out.println(s.decodeString("2[2[y]pq4[2[jk]e1[f]]]ef").equals("yypqjkjkefjkjkefjkjkefjkjkefyypqjkjkefjkjkefjkjkefjkjkefef"));
-        System.out.println("yypqjkjkefjkjkefjkjkefjkjkefyypqjkjkefjkjkefjkjkefjkjkefef");
+
+        TreeNode t5 = new TreeNode(5);
+        TreeNode t4 = new TreeNode(4, null, t5);
+        TreeNode t3 = new TreeNode(3, null, t4);
+        TreeNode t2 = new TreeNode(2, null, t3);
+        TreeNode t1 = new TreeNode(1, null, t2);
+
+        System.out.println(s.pathSum(t1, 3));
+
     }
-
-
-    public String decodeString(String s) {
-
-        char[] chars = s.toCharArray();
-        Deque<Integer> numStack = new LinkedList<>();
-        Deque<StringBuilder> stringStack = new LinkedList<>();
-        StringBuilder ans = new StringBuilder();
-
-        int i = 0;
-        while (i < s.length()) {
-            if (Character.isDigit(chars[i])) {
-                int len = getNumberLength(chars, i);
-                int num = Integer.parseInt(String.valueOf(chars, i, len));
-                numStack.push(num);
-                if (numStack.size() > stringStack.size() + 1) {
-                    stringStack.push(new StringBuilder());
-                }
-                i += len - 1;
-            } else if (Character.isLetter(chars[i])) {
-                int len = getStringLength(chars, i);
-                String currentString = String.valueOf(chars, i, len);
-                if (numStack.isEmpty()) {
-                    ans.append(currentString);
-                } else if (numStack.size() == stringStack.size()) {
-                    stringStack.peek().append(currentString);
-                } else {
-                    stringStack.push(new StringBuilder(currentString));
-                }
-                i += len - 1;
-            } else if (chars[i] == ']') {
-                String currentString = stringStack.pop().toString();
-                int count = numStack.pop();
-                StringBuilder sb = stringStack.isEmpty() ? ans : stringStack.peek();
-                for (int j = 0; j < count; j++) {
-                    sb.append(currentString);
-                }
-            }
-            i++;
-        }
-
-        return ans.toString();
-    }
-
-    private int getNumberLength(char[] chars, int i) {
-        int len = 0;
-        while (i < chars.length && Character.isDigit(chars[i])) {
-            len++;
-            i++;
-        }
-        return len;
-    }
-
-    private int getStringLength(char[] chars, int i) {
-        int len = 0;
-        while (i < chars.length && Character.isLetter(chars[i])) {
-            len++;
-            i++;
-        }
-        return len;
-    }
-
 
 }
-//leetcode submit region end(Prohibit modification and deletion)
+
