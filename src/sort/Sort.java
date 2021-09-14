@@ -1,6 +1,8 @@
 package sort;
 
 import java.util.*;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 public class Sort {
 
@@ -98,6 +100,7 @@ public class Sort {
      * @param nums
      */
     public static void quickSort(int[] nums) {
+        // todo 打乱数组
         quickSort(nums, 0, nums.length - 1);
     }
     private static void quickSort(int[] nums, int low, int high) {
