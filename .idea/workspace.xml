@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="【560】和为 K 的子数组">
+    <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="快速排序-三向切分">
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/leetcode/二叉树/树的遍历/T02二叉树的前序遍历.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/leetcode/二叉树/树的遍历/T02二叉树的前序遍历.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/SortUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/SortUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/docs/快速排序.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/docs/快速排序.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +172,7 @@
       <recent name="D:\IntelliJIDEA_workspace\algorithm_java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortTest">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="algorithm" />
@@ -275,10 +274,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.SortTest" />
         <item itemvalue="Application.Sort" />
         <item itemvalue="Application.SortUtil" />
-        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Tmp" />
       </list>
     </recent_temporary>
@@ -375,7 +374,7 @@
       <workItem from="1630899485926" duration="127000" />
       <workItem from="1630983101473" duration="87000" />
       <workItem from="1631152354650" duration="6094000" />
-      <workItem from="1631586109358" duration="10401000" />
+      <workItem from="1631586109358" duration="19187000" />
     </task>
     <task id="LOCAL-00001" summary="更新readme文件">
       <created>1628567685758</created>
@@ -461,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631159064160</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="快速排序-三向切分">
+      <created>1631603905131</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1631603905131</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -581,7 +587,8 @@
     <MESSAGE value="【399】除法求值" />
     <MESSAGE value="【448】找到所有数组中消失的数字" />
     <MESSAGE value="【560】和为 K 的子数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="【560】和为 K 的子数组" />
+    <MESSAGE value="快速排序-三向切分" />
+    <option name="LAST_COMMIT_MESSAGE" value="快速排序-三向切分" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/链表/L3反转链表.java">

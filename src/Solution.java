@@ -1,96 +1,63 @@
-//给定整数数组 nums 和整数 k，请返回数组中第 k 个最大的元素。 
-//
-// 请注意，你需要找的是数组排序后的第 k 个最大的元素，而不是第 k 个不同的元素。 
-//
-// 
-//
-// 示例 1: 
-//
-// 
-//输入: [3,2,1,5,6,4] 和 k = 2
-//输出: 5
-// 
-//
-// 示例 2: 
-//
-// 
-//输入: [3,2,3,1,2,4,5,5,6] 和 k = 4
-//输出: 4 
-//
-// 
-//
-// 提示： 
-//
-// 
-// 1 <= k <= nums.length <= 104 
-// -104 <= nums[i] <= 104 
-// 
-// Related Topics 数组 分治 快速选择 排序 堆（优先队列） 
-// 👍 1235 👎 0
+import java.util.*;
 
-//leetcode submit region begin(Prohibit modification and deletion)
+class Solution {
+    public int[] topKFrequent(int[] nums, int k) {
 
-
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode() {
-    }
-
-    TreeNode(int val) {
-        this.val = val;
-    }
-
-    TreeNode(int val, TreeNode left, TreeNode right) {
-        this.val = val;
-        this.left = left;
-        this.right = right;
-    }
-}
-
-public class Solution {
-
-    int ans = 0;
-    int targetSum;
-
-    public int pathSum(TreeNode root, int targetSum) {
-        if (root == null) {
-            return 0;
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
         }
-        this.targetSum = targetSum;
-        dfs(root, 0);
+
+        List<int[]> values = new ArrayList<>();
+        for (Map.Entry<Integer, Integer> entry: map.entrySet()) {
+            int num = entry.getKey();
+            int frequent = entry.getValue();
+            values.add(new int[]{num, frequent});
+        }
+
+        int[] ans = new int[k];
+        Collections.shuffle(values);
+        qSort(values, 0, values.size() - 1, ans, 0, k);
         return ans;
     }
 
-    private void dfs(TreeNode node, int sum) {
-        if (node == null) {
-            return;
+    private void qSort(List<int[]> values, int lo, int hi, int[] ans, int ansIndex, int k) {
+//        if (lo > hi) {
+//            return;
+//        }
+        int pivot = partition(values, lo, hi);
+        if (k < pivot - lo + 1) {
+            qSort(values, lo, pivot - 1, ans, ansIndex, k);
+        } else {
+            for (int i = lo; i <= pivot; i++) {
+                ans[ansIndex++] = values.get(i)[0];
+            }
+            if (k > pivot - lo + 1) {
+                qSort(values, pivot + 1, hi, ans, ansIndex, k - (pivot - lo + 1));
+            }
         }
-        if (sum + node.val == targetSum) {
-            ans++;
+    }
+
+    private int partition(List<int[]> values, int lo, int hi) {
+        int[] tmp = values.get(lo);
+        while (lo < hi) {
+            while (lo < hi && values.get(hi)[1] <= tmp[1]) hi--;
+            values.set(lo, values.get(hi));
+            while (lo < hi && values.get(lo)[1] >= tmp[1]) lo++;
+            values.set(hi, values.get(lo));
         }
-        dfs(node.left, sum + node.val);
-        dfs(node.right, sum + node.val);
-        dfs(node.left, 0);
-        dfs(node.right, 0);
+        values.set(lo, tmp);
+        return lo;
     }
 
 
     public static void main(String[] args) {
-
+        List<int[]> l = new ArrayList<>();
+        l.add(new int[]{0, 0 });
+        int[] ans = new int[1];
         Solution s = new Solution();
-
-        TreeNode t5 = new TreeNode(5);
-        TreeNode t4 = new TreeNode(4, null, t5);
-        TreeNode t3 = new TreeNode(3, null, t4);
-        TreeNode t2 = new TreeNode(2, null, t3);
-        TreeNode t1 = new TreeNode(1, null, t2);
-
-        System.out.println(s.pathSum(t1, 3));
+        s.qSort(l, 0, -1, ans, 0, 0);
 
     }
 
 }
-
