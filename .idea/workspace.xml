@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="【347】前 K 个高频元素" />
+    <list default="true" id="f8d42f31-9734-4803-a492-b304b3617675" name="Default Changelist" comment="【406】根据身高重建队列">
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tmp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -270,10 +275,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Tmp" />
         <item itemvalue="Application.SortTest" />
         <item itemvalue="Application.Sort" />
         <item itemvalue="Application.SortUtil" />
-        <item itemvalue="Application.Tmp" />
       </list>
     </recent_temporary>
   </component>
@@ -370,6 +375,7 @@
       <workItem from="1630983101473" duration="87000" />
       <workItem from="1631152354650" duration="6094000" />
       <workItem from="1631586109358" duration="19411000" />
+      <workItem from="1631759094452" duration="6069000" />
     </task>
     <task id="LOCAL-00001" summary="更新readme文件">
       <created>1628567685758</created>
@@ -469,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631685750093</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="【406】根据身高重建队列">
+      <created>1631759181301</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1631759181301</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -591,7 +604,8 @@
     <MESSAGE value="【560】和为 K 的子数组" />
     <MESSAGE value="快速排序-三向切分" />
     <MESSAGE value="【347】前 K 个高频元素" />
-    <option name="LAST_COMMIT_MESSAGE" value="【347】前 K 个高频元素" />
+    <MESSAGE value="【406】根据身高重建队列" />
+    <option name="LAST_COMMIT_MESSAGE" value="【406】根据身高重建队列" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/leetcode/初级算法/链表/L3反转链表.java">

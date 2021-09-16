@@ -1,63 +1,55 @@
-import java.util.*;
-
 class Solution {
-    public int[] topKFrequent(int[] nums, int k) {
+    public static boolean canPartition(int[] nums) {
 
-        Map<Integer, Integer> map = new HashMap<>();
+        int sum = 0;
         for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+            sum += num;
         }
 
-        List<int[]> values = new ArrayList<>();
-        for (Map.Entry<Integer, Integer> entry: map.entrySet()) {
-            int num = entry.getKey();
-            int frequent = entry.getValue();
-            values.add(new int[]{num, frequent});
+        if ((sum & 1) == 1) {
+            return false;
         }
 
-        int[] ans = new int[k];
-        Collections.shuffle(values);
-        qSort(values, 0, values.size() - 1, ans, 0, k);
-        return ans;
-    }
+        int n = sum >> 1;
+        int m = nums.length;
+        boolean[][] dp = new boolean[m + 1][n + 1];
 
-    private void qSort(List<int[]> values, int lo, int hi, int[] ans, int ansIndex, int k) {
-//        if (lo > hi) {
-//            return;
-//        }
-        int pivot = partition(values, lo, hi);
-        if (k < pivot - lo + 1) {
-            qSort(values, lo, pivot - 1, ans, ansIndex, k);
-        } else {
-            for (int i = lo; i <= pivot; i++) {
-                ans[ansIndex++] = values.get(i)[0];
-            }
-            if (k > pivot - lo + 1) {
-                qSort(values, pivot + 1, hi, ans, ansIndex, k - (pivot - lo + 1));
+        // 初始化
+        for (int j = 0; j <= n; j++) {
+            dp[0][j] = false;
+        }
+        for (int i = 0; i <= m; i++) {
+            dp[i][0] = true;
+        }
+
+        // 转移
+        for (int i = 1; i <= m; i++) {
+            for (int j = 1; j <= n; j++) {
+                dp[i][j] = dp[i - 1][j];
+                if (nums[i - 1] <= j) {
+                    dp[i][j] = dp[i][j] || dp[i - 1][j - nums[i - 1]];
+                }
             }
         }
-    }
 
-    private int partition(List<int[]> values, int lo, int hi) {
-        int[] tmp = values.get(lo);
-        while (lo < hi) {
-            while (lo < hi && values.get(hi)[1] <= tmp[1]) hi--;
-            values.set(lo, values.get(hi));
-            while (lo < hi && values.get(lo)[1] >= tmp[1]) lo++;
-            values.set(hi, values.get(lo));
-        }
-        values.set(lo, tmp);
-        return lo;
-    }
+        printArray(dp);
 
+        return dp[m][n];
+    }
 
     public static void main(String[] args) {
-        List<int[]> l = new ArrayList<>();
-        l.add(new int[]{0, 0 });
-        int[] ans = new int[1];
-        Solution s = new Solution();
-        s.qSort(l, 0, -1, ans, 0, 0);
+        canPartition(new int[]{1, 2, 4, 5});
+    }
 
+    private static void printArray(boolean[][] nums) {
+        int m = nums.length;
+        int n = nums[0].length;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                System.out.printf("%-8b", nums[i][j]);
+            }
+            System.out.println();
+        }
     }
 
 }
