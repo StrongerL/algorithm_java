@@ -6,8 +6,8 @@ public class Tmp {
 
     public static void main(String[] args) {
 
-        System.out.println(Arrays.equals(new int[]{1}, new int[]{1}));
-        System.out.println(new int[10].length);
+        String s = "12330";
+        System.out.println(s.substring(0, 5));
 
     }
 
