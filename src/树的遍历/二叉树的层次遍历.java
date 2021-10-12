@@ -1,4 +1,4 @@
-package leetcode.二叉树.树的遍历;
+package 树的遍历;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -27,7 +27,7 @@ import java.util.Queue;
  * ]
  */
 
-public class T06二叉树的层次遍历 {
+public class 二叉树的层次遍历 {
 
     public List<List<Integer>> levelOrder(TreeNode root) {
 
