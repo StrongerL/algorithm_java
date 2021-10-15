@@ -44,52 +44,33 @@ import java.util.List;
 class Solution {
 
     public static void main(String[] args) {
-        System.out.println(findAnagrams("cbaebabacd", "abc"));
+        Solution s = new Solution();
+        s.findAnagrams("cbaebabacd", "abc");
     }
 
-    public static List<Integer> findAnagrams(String s, String p) {
-
-        List<Integer> ans = new LinkedList<>();
-        int n = s.length(), window = p.length();
-        if (n < window) {
+    public List<Integer> findAnagrams(String s, String p) {
+        List<Integer> ans = new ArrayList<>();
+        if (s.length() < p.length()) {
             return ans;
         }
-
-        Map<Character, Integer> map = new HashMap<>();
-        int needCnt = 0, i = 0, j = 0;
-        for (char ch : p.toCharArray()) {
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
-            needCnt++;
+        int[] cntS = new int[26];
+        int[] cntP = new int[26];
+        for (int i = 0; i < p.length(); i++) {
+            cntP[p.charAt(i) - 'a']++;
         }
-        final Map<Character, Integer> ORIGIN_MAP = new HashMap<>(map);
-        final int ORIGIN_NEED_CNT = needCnt;
-
-
-        while (i <= n - window && j < n) {
-            while (j - i + 1 <= window && j < n) {
-                char ch = s.charAt(j++);
-                if (map.getOrDefault(ch, -1) > 0) {
-                    map.put(ch, map.get(ch) - 1);
-                    needCnt--;
-                } else {
-                    i = j;
-                    needCnt = ORIGIN_NEED_CNT;
-                    map.putAll(ORIGIN_MAP);
-                }
+        for (int l = 0, r = 0; r < s.length(); r++) {
+            char ch = s.charAt(r);
+            cntS[ch - 'a']++;
+            // s 中该元素数量小于 p 中数量，需要继续扩大窗口
+            // s 中该元素数量等于 p 中数量，从l处到r都符合要求
+            // s 中该元素数量大于 p 中数量，说明遇到了p中没有的字符或者有重复字符，需要缩小窗口
+            while (cntS[ch - 'a'] > cntP[ch - 'a']) {
+                cntS[s.charAt(l++) - 'a']--;
             }
-
-            if (j > n || i >= n) {
-                return ans;
+            if (r - l + 1 == p.length()) {
+                ans.add(l);
             }
-
-            if (needCnt == 0) {
-                ans.add(i);
-            }
-            char ch = s.charAt(i++);
-            map.put(ch, map.get(ch) + 1);
-
         }
-
         return ans;
     }
 }
