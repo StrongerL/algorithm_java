@@ -45,33 +45,36 @@ class Solution {
 
     public static void main(String[] args) {
         Solution s = new Solution();
-        s.findAnagrams("cbaebabacd", "abc");
+        System.out.println(s.longestPalindrome("babad"));
     }
 
-    public List<Integer> findAnagrams(String s, String p) {
-        List<Integer> ans = new ArrayList<>();
-        if (s.length() < p.length()) {
-            return ans;
-        }
-        int[] cntS = new int[26];
-        int[] cntP = new int[26];
-        for (int i = 0; i < p.length(); i++) {
-            cntP[p.charAt(i) - 'a']++;
-        }
-        for (int l = 0, r = 0; r < s.length(); r++) {
-            char ch = s.charAt(r);
-            cntS[ch - 'a']++;
-            // s 中该元素数量小于 p 中数量，需要继续扩大窗口
-            // s 中该元素数量等于 p 中数量，从l处到r都符合要求
-            // s 中该元素数量大于 p 中数量，说明遇到了p中没有的字符或者有重复字符，需要缩小窗口
-            while (cntS[ch - 'a'] > cntP[ch - 'a']) {
-                cntS[s.charAt(l++) - 'a']--;
-            }
-            if (r - l + 1 == p.length()) {
-                ans.add(l);
+    public String longestPalindrome(String s) {
+        String ans = "";
+        for (int i = 0; i < s.length(); i++) {
+            for (int j = i; j <= i + 1; j++) {
+                String current = palindrome(s, i, j);
+                if (current.length() > ans.length()) {
+                    ans = current;
+                }
             }
         }
         return ans;
+    }
+
+    private String palindrome(String s, int i, int j) {
+        while (i >= 0 && j < s.length()) {
+            if (s.charAt(i) == s.charAt(j)) {
+                i--; j++;
+            } else {
+                break;
+            }
+        }
+        i++; j--;
+        if (i >= 0 && j < s.length() && i <= j) {
+            return s.substring(i, j + 1);
+        } else {
+            return "";
+        }
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
