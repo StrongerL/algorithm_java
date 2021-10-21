@@ -1,5 +1,6 @@
 package 树的遍历;
 
+import java.util.ArrayList;
 import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
@@ -8,7 +9,7 @@ import java.util.List;
 public class 二叉树的前序遍历 {
 
     // 递归
-    public List<Integer> preorderTraversal0(TreeNode root) {
+    public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> ans = new LinkedList<>();
         preOrder(root, ans);
         return ans;
@@ -61,5 +62,31 @@ public class 二叉树的前序遍历 {
         return ans;
     }
 
+    // https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/leetcodesuan-fa-xiu-lian-dong-hua-yan-shi-xbian-2/
+    public List<Integer> preorderTraversalMorris(TreeNode root) {
+        List<Integer> ans = new ArrayList<>();
+        TreeNode cur = root;
+        TreeNode prev = null;
+        while (cur != null) {
+            prev = cur.left;
+            if (prev != null) {
+                while (prev.right != null && prev.right != cur) {
+                    prev = prev.right;
+                }
+                if (prev.right == null) {
+                    ans.add(cur.val);
+                    prev.right = cur;
+                    cur = cur.left;
+                } else {
+                    prev.right = null;
+                    cur = cur.right;
+                }
+            } else {
+                ans.add(cur.val);
+                cur = cur.right;
+            }
+        }
+        return ans;
+    }
 
 }

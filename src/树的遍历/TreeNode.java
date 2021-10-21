@@ -25,13 +25,13 @@ public class TreeNode {
         t3.right = t6;
 
         二叉树的前序遍历 solution1 = new 二叉树的前序遍历();
-        System.out.println(solution1.preorderTraversal0(t1));
+        System.out.println(solution1.preorderTraversal(t1));
 
         二叉树的中序遍历 solution2 = new 二叉树的中序遍历();
-        System.out.println(solution2.inorderTraversal0(t1));
+        System.out.println(solution2.inorderTraversal(t1));
 
         二叉树的后序遍历 solution3 = new 二叉树的后序遍历();
-        System.out.println(solution3.postorderTraversal0(t1));
+        System.out.println(solution3.postorderTraversal(t1));
     }
 
 }
