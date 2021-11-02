@@ -41,6 +41,7 @@ public class 二叉树的中序遍历 {
     }
 
     // https://leetcode-cn.com/problems/binary-tree-preorder-traversal/solution/leetcodesuan-fa-xiu-lian-dong-hua-yan-shi-xbian-2/
+    // morris
     public List<Integer> inorderTraversalMorris(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
         TreeNode cur = root;
