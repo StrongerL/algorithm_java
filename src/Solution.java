@@ -1,28 +1,33 @@
 import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.List;
 
 class Solution {
-    public void nextPermutation(int[] nums) {
-        int n = nums.length;
-        int i = n - 1;
-        while (i > 0 && nums[i] <= nums[i - 1]) i--;
-        if (i != 0) {
-            int j = n - 1;
-            while (j >= i && nums[j] <= nums[i - 1]) j--;
-            swap(nums, i - 1, j);
-        }
-        for (int k = i; k < (n + i)/2; k++) swap(nums, k, (n - 1) - (k - i));
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<List<Integer>> ans = new LinkedList<>();
+        List<Integer> combine = new LinkedList<>();
+        dfs(candidates, target, ans, combine, 0);
+        return ans;
     }
 
-    private void swap(int[] nums, int i, int j) {
-        int tmp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = tmp;
+    private void dfs(int[] candidates, int target, List<List<Integer>> ans, List<Integer> combine, int idx) {
+        if (idx == candidates.length) {
+            return;
+        }
+        if (target == 0) {
+            ans.add(new LinkedList<>(combine));
+            return;
+        }
+        dfs(candidates, target, ans, combine, idx + 1);
+        if (target >= candidates[idx]) {
+            combine.add(candidates[idx]);
+            dfs(candidates, target - candidates[idx], ans, combine, idx);
+            combine.remove(combine.size() - 1);
+        }
     }
 
     public static void main(String[] args) {
         Solution s = new Solution();
-        int[] nums = new int[]{5, 4, 7, 5, 3, 2};
-        s.nextPermutation(nums);
-        System.out.println(Arrays.toString(nums));
+        System.out.println(s.combinationSum(new int[]{1, 2, 3}, 6));
     }
 }
