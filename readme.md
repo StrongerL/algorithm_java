@@ -1,3 +1,25 @@
+## 学习计划
+
+### 系统学习
+
+#### MIT6.006 Introduction to Algorithms
+
+课程主页：
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/index.htm
+
+YouTube：
+
+https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&index=1
+
+
+
+### 刷题
+
+根据自己的计划刷题总结即可，没有必要寻找一个统一的书籍帮助自己总结。
+
+
+
 ## 动态规划
 
 【10】正则表达式匹配
@@ -43,6 +65,8 @@
 【40】组合总和 II
 
 【46】全排列
+
+【51】N皇后
 
 【78】子集
 
