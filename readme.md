@@ -66,6 +66,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【46】全排列
 
+【47】全排列 II
+
 【51】N皇后
 
 【78】子集

@@ -1,33 +1,36 @@
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 class Solution {
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> ans = new LinkedList<>();
-        List<Integer> combine = new LinkedList<>();
-        dfs(candidates, target, ans, combine, 0);
+    boolean[] vis;
+
+    public List<List<Integer>> permuteUnique(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<List<Integer>>();
+        List<Integer> perm = new ArrayList<Integer>();
+        vis = new boolean[nums.length];
+        Arrays.sort(nums);
+        backtrack(nums, ans, 0, perm);
         return ans;
     }
 
-    private void dfs(int[] candidates, int target, List<List<Integer>> ans, List<Integer> combine, int idx) {
-        if (idx == candidates.length) {
+    public void backtrack(int[] nums, List<List<Integer>> ans, int idx, List<Integer> perm) {
+        if (idx == nums.length) {
+            ans.add(new ArrayList<Integer>(perm));
             return;
         }
-        if (target == 0) {
-            ans.add(new LinkedList<>(combine));
-            return;
-        }
-        dfs(candidates, target, ans, combine, idx + 1);
-        if (target >= candidates[idx]) {
-            combine.add(candidates[idx]);
-            dfs(candidates, target - candidates[idx], ans, combine, idx);
-            combine.remove(combine.size() - 1);
+        for (int i = 0; i < nums.length; ++i) {
+            if (vis[i] || (i > 0 && nums[i] == nums[i - 1] && !vis[i - 1])) {
+                continue;
+            }
+            perm.add(nums[i]);
+            vis[i] = true;
+            backtrack(nums, ans, idx + 1, perm);
+            vis[i] = false;
+            perm.remove(idx);
         }
     }
 
     public static void main(String[] args) {
         Solution s = new Solution();
-        System.out.println(s.combinationSum(new int[]{1, 2, 3}, 6));
+        System.out.println(s.permuteUnique(new int[]{1, 1, 2}));
     }
 }
