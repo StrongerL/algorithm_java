@@ -57,8 +57,10 @@ public class Tmp {
 
 
     public static void main(String[] args) {
-        Tmp t = new Tmp();
-        System.out.println(t.solveNQueens(4));
+        System.out.println(3 ^ 2);
+
+
+
     }
 
 }

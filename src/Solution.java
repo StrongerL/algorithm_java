@@ -1,36 +1,53 @@
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 class Solution {
-    boolean[] vis;
 
-    public List<List<Integer>> permuteUnique(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<List<Integer>>();
-        List<Integer> perm = new ArrayList<Integer>();
-        vis = new boolean[nums.length];
-        Arrays.sort(nums);
-        backtrack(nums, ans, 0, perm);
-        return ans;
+    private int n;
+    private int len = 1;
+    private boolean[] vis;
+    private List<Integer> ans = new ArrayList<>();
+    private List<Integer> ans1;
+    private boolean done = false;
+
+    public List<Integer> grayCode(int n) {
+        this.n = n;
+        for (int i = 0; i < n; i++) len = len << 1;
+        vis = new boolean[len];
+        ans.add(0);
+        vis[0] = true;
+        backtrack();
+        return ans1;
     }
 
-    public void backtrack(int[] nums, List<List<Integer>> ans, int idx, List<Integer> perm) {
-        if (idx == nums.length) {
-            ans.add(new ArrayList<Integer>(perm));
+    private void backtrack() {
+        if (done) return;
+        if (ans.size() == len && check(ans.get(ans.size() - 1), 0)) {
+            ans1 = new ArrayList<>(ans);
+            done = true;
             return;
         }
-        for (int i = 0; i < nums.length; ++i) {
-            if (vis[i] || (i > 0 && nums[i] == nums[i - 1] && !vis[i - 1])) {
-                continue;
+        int before = ans.get(ans.size() - 1);
+        for (int i = 0; i < len; i++) {
+            if (!vis[i] && check(i, before)) {
+                ans.add(i);
+                vis[i] = true;
+                backtrack();
+                vis[i] = false;
+                ans.remove(ans.size() - 1);
             }
-            perm.add(nums[i]);
-            vis[i] = true;
-            backtrack(nums, ans, idx + 1, perm);
-            vis[i] = false;
-            perm.remove(idx);
         }
+    }
+
+    private boolean check(int num, int before) {
+        int diff = num ^ before;
+        return ((diff & (diff - 1)) == 0);
     }
 
     public static void main(String[] args) {
         Solution s = new Solution();
-        System.out.println(s.permuteUnique(new int[]{1, 1, 2}));
+        System.out.println(s.grayCode(9));
     }
+
 }

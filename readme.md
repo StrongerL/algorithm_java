@@ -70,9 +70,13 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【51】N皇后
 
+【52】N皇后 II
+
 【77】组合
 
 【78】子集
+
+【90】 子集 II
 
 【301】删除无效的括号
 
@@ -226,3 +230,4 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【621】任务调度器
 
+【89】格雷编码
