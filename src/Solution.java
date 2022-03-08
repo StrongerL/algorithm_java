@@ -1,53 +1,74 @@
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 class Solution {
 
-    private int n;
-    private int len = 1;
-    private boolean[] vis;
-    private List<Integer> ans = new ArrayList<>();
-    private List<Integer> ans1;
-    private boolean done = false;
+    String[] tab = new String[]{"a", "b", "c", "d", "e", "f", "g", "h", "i", "j",
+            "k", "l", "m", "n", "o", "p", "q", "r", "s", "t",
+            "u", "v","w", "x", "y", "z"};
 
-    public List<Integer> grayCode(int n) {
-        this.n = n;
-        for (int i = 0; i < n; i++) len = len << 1;
-        vis = new boolean[len];
-        ans.add(0);
-        vis[0] = true;
+    StringBuilder builder;
+    String endWord;
+    List<List<String>> ans = new ArrayList<>();
+    List<String> current = new ArrayList<>();
+    Map<String, Boolean> vis = new HashMap<>();
+    int minSize = Integer.MAX_VALUE;
+
+    public List<List<String>> findLadders(String beginWord, String endWord, List<String> wordList) {
+        vis.put(beginWord, true);
+        for (String s : wordList) {
+            vis.put(s, false);
+        }
+        builder = new StringBuilder(beginWord);
+        this.endWord = endWord;
+        if (!vis.containsKey(endWord)) return ans;
+        current.add(beginWord);
         backtrack();
-        return ans1;
+        return ans;
     }
 
     private void backtrack() {
-        if (done) return;
-        if (ans.size() == len && check(ans.get(ans.size() - 1), 0)) {
-            ans1 = new ArrayList<>(ans);
-            done = true;
+
+        if (current.size() > minSize) return;
+
+        if (endWord.equals(builder.toString())) {
+            if (current.size() < minSize) {
+                ans.clear();
+                minSize = current.size();
+            }
+            ans.add(new ArrayList<>(current));
             return;
         }
-        int before = ans.get(ans.size() - 1);
-        for (int i = 0; i < len; i++) {
-            if (!vis[i] && check(i, before)) {
-                ans.add(i);
-                vis[i] = true;
+
+        for (int i = 0; i < builder.length(); i++) {
+            for (int j = 0; j < tab.length; j++) {
+                String oldChar = builder.substring(i, i + 1);
+                builder.replace(i, i + 1, tab[j]);
+                String newString = builder.toString();
+                if (!vis.containsKey(newString) || vis.get(newString)) {
+                    builder.replace(i, i + 1, oldChar);
+                    continue;
+                }
+                vis.put(newString, true);
                 backtrack();
-                vis[i] = false;
-                ans.remove(ans.size() - 1);
+                vis.put(newString, false);
+                builder.replace(i, i + 1, oldChar);
             }
         }
     }
 
-    private boolean check(int num, int before) {
-        int diff = num ^ before;
-        return ((diff & (diff - 1)) == 0);
-    }
-
     public static void main(String[] args) {
         Solution s = new Solution();
-        System.out.println(s.grayCode(9));
+        List<String> list = new ArrayList<>();
+        list.add("hot");
+        list.add("dot");
+        list.add("dog");
+        list.add("lot");
+        list.add("log");
+        list.add("cog");
+        s.findLadders("hit", "cog", list);
     }
 
 }

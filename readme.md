@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【221】最大正方形
 
+【279】完全平方数
+
 【300】最长递增子序列
 
 【309】最佳买卖股票时机含冷冻期
@@ -78,6 +80,10 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【90】 子集 II
 
+【93】复原 IP 地址
+
+【95】不同的二叉搜索树 II
+
 【301】删除无效的括号
 
 
@@ -108,8 +114,13 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【617】合并二叉树
 
+## 排序
 
-## 搜索/排序
+【148】排序链表
+
+【347】前 K 个高频元素
+
+## 二分查找
 
 【4】寻找两个正序数组的中位数
 
@@ -117,14 +128,13 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【34】在排序数组中查找元素的第一个和最后一个位置
 
-【148】排序链表
+【162】寻找峰值
 
 【215】数组中的第K个最大元素
 
-【347】前 K 个高频元素
+【278】第一个错误的版本
 
-
-## 拓扑排序
+【1287】有序数组中出现次数超过25%的元素
 
 【207】课程表
 
@@ -207,6 +217,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【21】合并两个有序链表
 
+【143】重排链表
+
 
 ## 其他
 
@@ -217,6 +229,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【49】字母异位词分组
 
 【56】合并区间
+
+【89】格雷编码
 
 【146】LRU 缓存机制
 
@@ -230,4 +244,9 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【621】任务调度器
 
-【89】格雷编码
+【剑指 Offer 09】用两个栈实现队列
+
+
+
+
+
