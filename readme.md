@@ -141,6 +141,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 ## 双指针
 
+【3】无重复字符的最长子串
+
 【11】盛最多水的容器
 
 【15】三数之和
@@ -243,6 +245,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【448】找到所有数组中消失的数字
 
 【621】任务调度器
+
+【1290】二进制链表转整数
 
 【剑指 Offer 09】用两个栈实现队列
 
