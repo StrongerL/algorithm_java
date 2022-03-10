@@ -108,6 +108,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【226】翻转二叉树
 
+【530】 二叉搜索树的最小绝对差
+
 【538】把二叉搜索树转换为累加树
 
 【543】二叉树的直径
