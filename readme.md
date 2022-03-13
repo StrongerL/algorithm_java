@@ -260,6 +260,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0743】[网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)
 
+【6032】[得到要求路径的最小带权子图](https://leetcode-cn.com/problems/minimum-weighted-subgraph-with-the-required-paths/)
+
 
 
 ## 其他
