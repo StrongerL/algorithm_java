@@ -258,7 +258,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 ## 图
 
-
+【0743】[网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)
 
 
 
