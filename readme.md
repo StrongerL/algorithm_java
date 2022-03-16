@@ -74,6 +74,10 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0416】分割等和子集
 
+【剑指 Offer 10 - I】[斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
+
+
+
 
 ## 贪心
 
@@ -152,6 +156,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0347】前 K 个高频元素
 
+【0912】[排序数组](https://leetcode-cn.com/problems/sort-an-array/)
+
 ## 二分查找
 
 【0004】寻找两个正序数组的中位数
@@ -165,8 +171,6 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【0215】数组中的第K个最大元素
 
 【0278】第一个错误的版本
-
-【0912】[排序数组](https://leetcode-cn.com/problems/sort-an-array/)
 
 【1287】有序数组中出现次数超过25%的元素
 
