@@ -127,6 +127,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0200】岛屿数量
 
+【0386】[字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers/)
+
 【0863】二叉树中所有距离为 K 的结点
 
 
