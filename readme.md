@@ -74,6 +74,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0416】分割等和子集
 
+【0718】[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) TODO
+
 【剑指 Offer 10 - I】[斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
 
 
