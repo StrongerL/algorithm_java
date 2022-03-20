@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【剑指 Offer 10 - I】[斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
 
-
+【6029】[射箭比赛中的最大得分](https://leetcode-cn.com/problems/maximum-points-in-an-archery-competition/)
 
 
 ## 贪心
@@ -338,3 +338,6 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【剑指 Offer 09】用两个栈实现队列
 
+【6027】[统计数组中峰和谷的数量](https://leetcode-cn.com/problems/count-hills-and-valleys-in-an-array/)
+
+【6028】[统计道路上的碰撞次数](https://leetcode-cn.com/problems/count-collisions-on-a-road/)
