@@ -180,6 +180,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0034】在排序数组中查找元素的第一个和最后一个位置
 
+【0153】[寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
+
 【0162】寻找峰值
 
 【0215】数组中的第K个最大元素
