@@ -58,6 +58,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0096】不同的二叉搜索树
 
+【0139】[单词拆分](https://leetcode-cn.com/problems/word-break/)
+
 【0152】乘积最大子数组
 
 【0221】最大正方形
