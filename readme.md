@@ -82,8 +82,9 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【6029】[射箭比赛中的最大得分](https://leetcode-cn.com/problems/maximum-points-in-an-archery-competition/)
 
-
 ## 贪心
+
+【0045】[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
 
 【0055】跳跃游戏
 
