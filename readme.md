@@ -314,6 +314,10 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 ## 模拟
 
+【0054】[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)
+
+【0415】[字符串相加](https://leetcode-cn.com/problems/add-strings/)
+
 【剑指 Offer 31】[栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)
 
 
