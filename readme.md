@@ -76,9 +76,11 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0718】[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) TODO
 
+【2212】[射箭比赛中的最大得分](https://leetcode-cn.com/problems/maximum-points-in-an-archery-competition/)
+
 【剑指 Offer 10 - I】[斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
 
-【2212】[射箭比赛中的最大得分](https://leetcode-cn.com/problems/maximum-points-in-an-archery-competition/)
+【5269】[从栈中取出 K 个硬币的最大面值和](https://leetcode-cn.com/problems/maximum-value-of-k-coins-from-piles/)
 
 ## 贪心
 
@@ -88,7 +90,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0300】最长递增子序列
 
-
+【5236】[美化数组的最少删除数](https://leetcode-cn.com/problems/minimum-deletions-to-make-array-beautiful/)
 
 
 ## 回溯
@@ -318,7 +320,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【剑指 Offer 31】[栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)
 
-
+【5253】[找到指定长度的回文数](https://leetcode-cn.com/problems/find-palindrome-with-fixed-length/)
 
 ## 其他
 
@@ -350,8 +352,10 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【1290】二进制链表转整数
 
-【剑指 Offer 09】用两个栈实现队列
-
 【2210】[统计数组中峰和谷的数量](https://leetcode-cn.com/problems/count-hills-and-valleys-in-an-array/)
 
 【2211】[统计道路上的碰撞次数](https://leetcode-cn.com/problems/count-collisions-on-a-road/)
+
+【剑指 Offer 09】用两个栈实现队列
+
+【5268】[找出两数组的不同](https://leetcode-cn.com/problems/find-the-difference-of-two-arrays/)
