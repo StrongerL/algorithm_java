@@ -208,7 +208,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 ## 双指针
 
-【0003】无重复字符的最长子串
+【0003】[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 
 【0011】盛最多水的容器
 
@@ -304,6 +304,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【0143】重排链表
 
 【0203】[移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
+
+【0206】[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 
 【0328】奇偶链表
 
