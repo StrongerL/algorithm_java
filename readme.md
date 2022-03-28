@@ -82,6 +82,12 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【5269】[从栈中取出 K 个硬币的最大面值和](https://leetcode-cn.com/problems/maximum-value-of-k-coins-from-piles/)
 
+### 0/1背包
+
+【1049】[最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)
+
+
+
 ## 贪心
 
 【0045】[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
@@ -91,6 +97,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【0300】最长递增子序列
 
 【5236】[美化数组的最少删除数](https://leetcode-cn.com/problems/minimum-deletions-to-make-array-beautiful/)
+
 
 
 ## 回溯
@@ -321,6 +328,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【剑指 Offer 31】[栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)
 
 【5253】[找到指定长度的回文数](https://leetcode-cn.com/problems/find-palindrome-with-fixed-length/)
+
+
 
 ## 其他
 
