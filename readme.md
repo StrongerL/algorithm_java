@@ -220,7 +220,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0160】相交链表
 
-【0287】寻找重复数
+【0287】[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
 
 【0581】最短无序连续子数组
 
@@ -267,7 +267,9 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0128】最长连续序列
 
+【0442】[数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
 
+【剑指 Offer 03】[数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
 
 
 ## 并查集
