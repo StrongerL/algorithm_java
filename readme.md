@@ -169,6 +169,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0617】合并二叉树
 
+【剑指 Offer 07】[重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
+
 【剑指 Offer 27】二叉树的镜像
 
 
@@ -294,6 +296,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0647】回文子串
 
+【剑指 Offer 05】[替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 
 
 
@@ -310,6 +313,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【0206】[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 
 【0328】奇偶链表
+
+【剑指 Offer 06】[从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
 
 【剑指 Offer 22】[链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
 
@@ -351,7 +356,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0089】格雷编码
 
-【0146】LRU 缓存机制
+【0146】[LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)
 
 【0239】滑动窗口最大值
 
@@ -368,6 +373,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【2210】[统计数组中峰和谷的数量](https://leetcode-cn.com/problems/count-hills-and-valleys-in-an-array/)
 
 【2211】[统计道路上的碰撞次数](https://leetcode-cn.com/problems/count-collisions-on-a-road/)
+
+【剑指 Offer 04】[二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)
 
 【剑指 Offer 09】用两个栈实现队列
 
