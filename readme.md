@@ -82,11 +82,15 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【剑指 Offer 10 - II】[青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
 
-【5269】[从栈中取出 K 个硬币的最大面值和](https://leetcode-cn.com/problems/maximum-value-of-k-coins-from-piles/)
-
 ### 0/1背包
 
 【1049】[最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)
+
+### 分组背包
+
+【2218】[从栈中取出 K 个硬币的最大面值和](https://leetcode-cn.com/problems/maximum-value-of-k-coins-from-piles/)
+
+
 
 
 
@@ -98,7 +102,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0300】最长递增子序列
 
-【5236】[美化数组的最少删除数](https://leetcode-cn.com/problems/minimum-deletions-to-make-array-beautiful/)
+【2216】[美化数组的最少删除数](https://leetcode-cn.com/problems/minimum-deletions-to-make-array-beautiful/)
 
 
 
@@ -340,9 +344,11 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0415】[字符串相加](https://leetcode-cn.com/problems/add-strings/)
 
+【2217】[找到指定长度的回文数](https://leetcode-cn.com/problems/find-palindrome-with-fixed-length/)
+
 【剑指 Offer 31】[栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)
 
-【5253】[找到指定长度的回文数](https://leetcode-cn.com/problems/find-palindrome-with-fixed-length/)
+
 
 
 
@@ -380,8 +386,9 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【2211】[统计道路上的碰撞次数](https://leetcode-cn.com/problems/count-collisions-on-a-road/)
 
+【2215】[找出两数组的不同](https://leetcode-cn.com/problems/find-the-difference-of-two-arrays/)
+
 【剑指 Offer 04】[二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)
 
 【剑指 Offer 09】用两个栈实现队列
 
-【5268】[找出两数组的不同](https://leetcode-cn.com/problems/find-the-difference-of-two-arrays/)
