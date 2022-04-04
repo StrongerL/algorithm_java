@@ -82,6 +82,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【剑指 Offer 10 - II】[青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
 
+【剑指 Offer 14- I】[剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
+
 ### 0/1背包
 
 【1049】[最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)
