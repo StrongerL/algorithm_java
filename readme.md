@@ -203,9 +203,13 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0004】寻找两个正序数组的中位数
 
-【0033】搜索旋转排序数组
+【0033】[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 
 【0034】[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+【0035】[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
+
+【0069】[x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
 
 【0153】[寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
 
@@ -216,6 +220,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【1287】有序数组中出现次数超过25%的元素
 
 【0207】课程表
+
+【0704】[二分查找](https://leetcode-cn.com/problems/binary-search/)
 
 【剑指 Offer 11】[旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)
 
