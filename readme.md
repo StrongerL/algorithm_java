@@ -96,6 +96,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0045】[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
 
+【0053】[最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/)
+
 【0055】跳跃游戏
 
 【0300】最长递增子序列
@@ -340,6 +342,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【0328】奇偶链表
 
 【剑指 Offer 06】[从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
+
+【剑指 Offer 18】[删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)
 
 【剑指 Offer 22】[链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
 
