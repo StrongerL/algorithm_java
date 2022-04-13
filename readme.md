@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 ## 动态规划
 
-【0010】正则表达式匹配
+【0010】[正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
 
 【0032】最长有效括号
 
@@ -81,6 +81,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【剑指 Offer 10 - II】[青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
 
 【剑指 Offer 14- I】[剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)
+
+【剑指 Offer 19】[正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/)，同【0010】
 
 ### 0/1背包
 
@@ -291,7 +293,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 ## 哈希
 
-【0001】两数之和
+【0001】[两数之和](https://leetcode-cn.com/problems/two-sum/)
 
 【0128】最长连续序列
 
@@ -331,7 +333,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0002】两数相加
 
-【0021】合并两个有序链表
+【0021】[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 
 【0143】重排链表
 
