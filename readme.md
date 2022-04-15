@@ -200,6 +200,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0912】[排序数组](https://leetcode-cn.com/problems/sort-an-array/)
 
+【剑指 Offer 21】[调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)
+
 
 
 ## 二分查找
@@ -368,6 +370,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【2217】[找到指定长度的回文数](https://leetcode-cn.com/problems/find-palindrome-with-fixed-length/)
 
 【2227】[加密解密字符串](https://leetcode-cn.com/problems/encrypt-and-decrypt-strings/)
+
+【剑指 Offer 20】[表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)
 
 【剑指 Offer 31】[栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)
 
