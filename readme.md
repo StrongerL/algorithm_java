@@ -186,6 +186,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【剑指 Offer 07】[重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
 
+【剑指 Offer 26】[树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)
+
 【剑指 Offer 27】二叉树的镜像
 
 
