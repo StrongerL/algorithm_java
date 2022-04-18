@@ -54,6 +54,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0096】不同的二叉搜索树
 
+【0121】[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+
 【0139】[单词拆分](https://leetcode-cn.com/problems/word-break/)
 
 【0152】乘积最大子数组
@@ -260,6 +262,8 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 【0015】三数之和
 
+【0042】[接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
+
 【0075】颜色分类
 
 【0142】环形链表 II
@@ -303,7 +307,7 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 【0085】最大矩形
 
-【0739】每日温度
+【0739】[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
 
 
 
