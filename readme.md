@@ -170,7 +170,9 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 【0094】二叉树的中序遍历
 
-【0102】二叉树的层序遍历
+【0102】[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+
+【0103】[二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
 
 【0124】二叉树中的最大路径和
 
@@ -195,6 +197,10 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 【剑指 Offer 26】[树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)
 
 【剑指 Offer 27】二叉树的镜像
+
+【剑指 Offer 28】[对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/)
+
+【剑指 Offer 32 - I】[从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)
 
 
 
@@ -371,9 +377,11 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 
 
-## 模拟
+## 模拟与设计
 
 【0054】[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)
+
+【0155】[最小栈](https://leetcode-cn.com/problems/min-stack/)
 
 【0415】[字符串相加](https://leetcode-cn.com/problems/add-strings/)
 
