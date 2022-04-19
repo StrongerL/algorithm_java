@@ -156,7 +156,7 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 【0140】[单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)
 
-【0200】岛屿数量
+【0200】[岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
 
 【0386】[字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers/)
 
@@ -185,6 +185,8 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 【0208】实现 Trie (前缀树)
 
 【0226】翻转二叉树
+
+【0236】[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 【0530】 二叉搜索树的最小绝对差
 
@@ -347,6 +349,8 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 【0647】回文子串
 
+【0821】[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)
+
 【剑指 Offer 05】[替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 
 
@@ -357,7 +361,11 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 【0021】[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 
+【0141】[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+
 【0143】重排链表
+
+【0160】[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 
 【0203】[移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
 
@@ -417,6 +425,8 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 ## 其他
 
+【0020】[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+
 【0023】合并K个升序链表
 
 【0031】下一个排列
@@ -428,6 +438,8 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 【0056】合并区间
 
 【0073】[矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)
+
+【0088】[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
 
 【0089】格雷编码
 
