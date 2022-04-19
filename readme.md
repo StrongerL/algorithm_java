@@ -206,6 +206,8 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 【剑指 Offer 32 - I】[从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)
 
+【剑指 Offer 33】[二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)
+
 
 
 ## 排序
