@@ -172,7 +172,7 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 ## 树
 
-【0094】二叉树的中序遍历
+【0094】[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 
 【0102】[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 
@@ -180,9 +180,9 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 【0124】二叉树中的最大路径和
 
-【0144】二叉树的前序遍历
+【0144】[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
 
-【0145】二叉树的后序遍历
+【0145】[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
 
 【0208】实现 Trie (前缀树)
 
