@@ -146,6 +146,8 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 【0095】不同的二叉搜索树 II
 
+【0113】[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)
+
 【0301】删除无效的括号
 
 【剑指 Offer 12】[矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
@@ -347,7 +349,7 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 ## 字符串
 
-【0005】最长回文子串
+【0005】[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 
 【0647】回文子串
 
