@@ -210,6 +210,8 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 【剑指 Offer 33】[二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)
 
+【剑指 Offer 36】[二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)
+
 
 
 ## 排序
@@ -364,6 +366,8 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 【0002】两数相加
 
 【0021】[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+
+【0138】[复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 
 【0141】[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 
