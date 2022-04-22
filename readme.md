@@ -152,6 +152,8 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 【剑指 Offer 12】[矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
 
+【剑指 Offer 38】[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
+
 
 
 ## DFS/BFS
@@ -190,6 +192,8 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 【0236】[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
+【0297】[二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+
 【0530】 二叉搜索树的最小绝对差
 
 【0538】把二叉搜索树转换为累加树
@@ -225,6 +229,8 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 【0912】[排序数组](https://leetcode-cn.com/problems/sort-an-array/)
 
 【剑指 Offer 21】[调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)
+
+【剑指 Offer 40】[最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
 
 
 
@@ -452,6 +458,8 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 【0089】格雷编码
 
 【0146】[LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)
+
+【0169】[多数元素](https://leetcode-cn.com/problems/majority-element/)
 
 【0239】滑动窗口最大值
 
