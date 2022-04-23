@@ -98,6 +98,10 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/problems/longest-path-with-different-adjacent-characters/)
 
+### 数位DP
+
+TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one/)
+
 
 
 ## 贪心
@@ -408,6 +412,8 @@ TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 【0054】[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)
 
 【0155】[最小栈](https://leetcode-cn.com/problems/min-stack/)
+
+【0295】[数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)
 
 【0415】[字符串相加](https://leetcode-cn.com/problems/add-strings/)
 
