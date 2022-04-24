@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 ### 树状DP
 
-TODO【6073】[相邻字符不同的最长路径](https://leetcode-cn.com/problems/longest-path-with-different-adjacent-characters/)
+TODO【2246】[相邻字符不同的最长路径](https://leetcode-cn.com/problems/longest-path-with-different-adjacent-characters/)
 
 ### 数位DP
 
@@ -118,7 +118,7 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【2233】[K 次增加后的最大乘积](https://leetcode-cn.com/problems/maximum-product-after-k-increments/)
 
-【6071】[完成所有任务需要的最少轮数](https://leetcode-cn.com/problems/minimum-rounds-to-complete-all-tasks/)
+【2244】[完成所有任务需要的最少轮数](https://leetcode-cn.com/problems/minimum-rounds-to-complete-all-tasks/)
 
 
 
@@ -295,13 +295,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 
 
-## 差分数组
-
-【1893】检查是否区域内所有整数都被覆盖
-
-
-
-
 ## 滑动窗口
 
 【0003】无重复字符的最长字串
@@ -354,7 +347,13 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0437】路径总和 III
 
-【6072】[转角路径的乘积中最多能有几个尾随零](https://leetcode-cn.com/problems/maximum-trailing-zeros-in-a-cornered-path/)
+【2245】[转角路径的乘积中最多能有几个尾随零](https://leetcode-cn.com/problems/maximum-trailing-zeros-in-a-cornered-path/)
+
+
+
+## 差分数组
+
+【1893】检查是否区域内所有整数都被覆盖
 
 
 
@@ -423,11 +422,11 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【2232】[向表达式添加括号后的最小结果](https://leetcode-cn.com/problems/minimize-result-by-adding-parentheses-to-expression/)
 
+【2243】[计算字符串的数字和](https://leetcode-cn.com/problems/calculate-digit-sum-of-a-string/)
+
 【剑指 Offer 20】[表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)
 
 【剑指 Offer 31】[栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)
-
-【6070】[计算字符串的数字和](https://leetcode-cn.com/problems/calculate-digit-sum-of-a-string/)
 
 
 
