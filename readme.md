@@ -264,6 +264,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 11】[旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)
 
+【6043】[统计包含每个点的矩形数目](https://leetcode-cn.com/problems/count-number-of-rectangles-containing-each-point/)
+
 
 
 ## 拓扑排序
@@ -355,6 +357,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【1893】检查是否区域内所有整数都被覆盖
 
+【6044】[花期内花的数目](https://leetcode-cn.com/problems/number-of-flowers-in-full-bloom/)
+
 
 
 
@@ -428,6 +432,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 31】[栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)
 
+【6041】[多个数组求交集](https://leetcode-cn.com/problems/intersection-of-multiple-arrays/)
+
 
 
 ## 位运算
@@ -495,4 +501,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【剑指 Offer 09】用两个栈实现队列
 
 【剑指 Offer 14- II】[剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)
+
+【6042】[统计圆内格点数目](https://leetcode-cn.com/problems/count-lattice-points-inside-a-circle/)
 
