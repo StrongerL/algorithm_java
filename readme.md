@@ -236,6 +236,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 40】[最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
 
+【剑指 Offer 45】[把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)
+
 
 
 ## 二分查找
@@ -475,6 +477,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【0239】滑动窗口最大值
 
 【0394】字符串解码
+
+【0400】[第 N 位数字](https://leetcode-cn.com/problems/nth-digit/)
 
 【0406】根据身高重建队列
 
