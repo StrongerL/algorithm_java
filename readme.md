@@ -86,6 +86,10 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【剑指 Offer 19】[正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/)，同【0010】
 
+【剑指 Offer 46】[把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)
+
+【剑指 Offer 47】[礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
+
 ### 0/1背包
 
 【1049】[最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)
@@ -223,6 +227,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 
 ## 排序
+
+【0023】[合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 
 【0148】[排序链表](https://leetcode-cn.com/problems/sort-list/)
 
@@ -453,8 +459,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 ## 其他
 
 【0020】[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
-
-【0023】合并K个升序链表
 
 【0031】下一个排列
 
