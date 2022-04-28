@@ -42,6 +42,13 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 
 
+## TODO
+
+1. 带标记的dfs
+2. 
+
+
+
 ## 动态规划
 
 【0010】[正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
@@ -61,6 +68,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【0152】乘积最大子数组
 
 【0221】最大正方形
+
+【0264】[丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
 
 【0279】完全平方数
 
@@ -244,6 +253,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 45】[把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)
 
+【剑指 Offer 51】[数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
+
 
 
 ## 二分查找
@@ -272,6 +283,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 11】[旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)
 
+【剑指 Offer 53 - II】[0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)
+
 【6043】[统计包含每个点的矩形数目](https://leetcode-cn.com/problems/count-number-of-rectangles-containing-each-point/)
 
 
@@ -295,8 +308,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【0075】颜色分类
 
 【0142】环形链表 II
-
-【0160】相交链表
 
 【0287】[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
 
@@ -509,6 +520,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【剑指 Offer 09】用两个栈实现队列
 
 【剑指 Offer 14- II】[剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)
+
+【剑指 Offer 50】[第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)
 
 【6042】[统计圆内格点数目](https://leetcode-cn.com/problems/count-lattice-points-inside-a-circle/)
 
