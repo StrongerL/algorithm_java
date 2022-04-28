@@ -275,9 +275,11 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0278】[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)
 
-【1287】有序数组中出现次数超过25%的元素
+【0300】[最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 
 【0704】[二分查找](https://leetcode-cn.com/problems/binary-search/)
+
+【1287】有序数组中出现次数超过25%的元素
 
 【2226】[每个小孩最多能分到多少糖果](https://leetcode-cn.com/problems/maximum-candies-allocated-to-k-children/)
 
