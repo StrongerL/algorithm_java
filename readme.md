@@ -341,6 +341,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0085】最大矩形
 
+【0239】[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
+
 【0739】[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
 
 
@@ -387,11 +389,15 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0005】[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 
+【0151】[颠倒字符串中的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+
 【0647】回文子串
 
 【0821】[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)
 
 【剑指 Offer 05】[替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
+
+【剑指 Offer 58 - II】[左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
 
 
 
