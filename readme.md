@@ -99,6 +99,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【剑指 Offer 47】[礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
 
+【剑指 Offer 60】[n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/)
+
 ### 0/1背包
 
 【1049】[最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)
@@ -341,9 +343,15 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0085】最大矩形
 
+【0739】[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+
+
+
+## 单调队列
+
 【0239】[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 
-【0739】[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+【剑指 Offer 59 - II】[队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)
 
 
 
@@ -530,6 +538,10 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【剑指 Offer 14- II】[剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)
 
 【剑指 Offer 50】[第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)
+
+【剑指 Offer 61】[扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)
+
+【剑指 Offer 62】[圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 
 【6042】[统计圆内格点数目](https://leetcode-cn.com/problems/count-lattice-points-inside-a-circle/)
 
