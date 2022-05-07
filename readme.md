@@ -209,6 +209,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0226】翻转二叉树
 
+【0235】[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+
 【0236】[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 【0297】[二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
@@ -382,6 +384,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【2245】[转角路径的乘积中最多能有几个尾随零](https://leetcode-cn.com/problems/maximum-trailing-zeros-in-a-cornered-path/)
 
+【剑指 Offer 66】[构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)
+
 
 
 ## 差分数组
@@ -396,6 +400,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 ## 字符串
 
 【0005】[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
+
+【0008】[字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 
 【0151】[颠倒字符串中的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
 
@@ -475,6 +481,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 15】[二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)
 
+【剑指 Offer 65】[不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/)
+
 
 
 ## 快速幂
@@ -542,6 +550,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【剑指 Offer 61】[扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)
 
 【剑指 Offer 62】[圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
+
+【剑指 Offer 64】[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)
 
 【6042】[统计圆内格点数目](https://leetcode-cn.com/problems/count-lattice-points-inside-a-circle/)
 
