@@ -101,6 +101,10 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【剑指 Offer 60】[n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/)
 
+【6058】[统计打字方案数](https://leetcode-cn.com/problems/count-number-of-texts/)
+
+【6059】[检查是否有合法括号字符串路径](https://leetcode-cn.com/problems/check-if-there-is-a-valid-parentheses-string-path/)
+
 ### 0/1背包
 
 【1049】[最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)
@@ -236,6 +240,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【剑指 Offer 33】[二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)
 
 【剑指 Offer 36】[二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)
+
+【6057】[统计值等于子树平均值的节点数](https://leetcode-cn.com/problems/count-nodes-equal-to-average-of-subtree/)
 
 
 
@@ -413,6 +419,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 58 - II】[左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
 
+【6056】[字符串中最大的 3 位相同数字](https://leetcode-cn.com/problems/largest-3-same-digit-number-in-string/)
+
 
 
 ## 链表
@@ -554,5 +562,4 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【剑指 Offer 62】[圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 
 【剑指 Offer 64】[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)
-
 
