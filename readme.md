@@ -513,7 +513,7 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0049】字母异位词分组
 
-【0056】合并区间
+【0056】[合并区间](https://leetcode.cn/problems/merge-intervals/)
 
 【0073】[矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)
 
