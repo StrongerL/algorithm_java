@@ -87,6 +87,10 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【2212】[射箭比赛中的最大得分](https://leetcode-cn.com/problems/maximum-points-in-an-archery-competition/)
 
+【2266】[统计打字方案数](https://leetcode-cn.com/problems/count-number-of-texts/)
+
+【2267】[检查是否有合法括号字符串路径](https://leetcode-cn.com/problems/check-if-there-is-a-valid-parentheses-string-path/)
+
 【剑指 Offer 10 - I】[斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)
 
 【剑指 Offer 10 - II】[青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)
@@ -100,10 +104,6 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【剑指 Offer 47】[礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
 
 【剑指 Offer 60】[n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/)
-
-【6058】[统计打字方案数](https://leetcode-cn.com/problems/count-number-of-texts/)
-
-【6059】[检查是否有合法括号字符串路径](https://leetcode-cn.com/problems/check-if-there-is-a-valid-parentheses-string-path/)
 
 ### 0/1背包
 
@@ -233,6 +233,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0617】合并二叉树
 
+【2265】[统计值等于子树平均值的节点数](https://leetcode-cn.com/problems/count-nodes-equal-to-average-of-subtree/)
+
 【剑指 Offer 07】[重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
 
 【剑指 Offer 26】[树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/)
@@ -246,8 +248,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【剑指 Offer 33】[二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)
 
 【剑指 Offer 36】[二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)
-
-【6057】[统计值等于子树平均值的节点数](https://leetcode-cn.com/problems/count-nodes-equal-to-average-of-subtree/)
 
 
 
@@ -421,11 +421,11 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0821】[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)
 
+【2264】[字符串中最大的 3 位相同数字](https://leetcode-cn.com/problems/largest-3-same-digit-number-in-string/)
+
 【剑指 Offer 05】[替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 
 【剑指 Offer 58 - II】[左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
-
-【6056】[字符串中最大的 3 位相同数字](https://leetcode-cn.com/problems/largest-3-same-digit-number-in-string/)
 
 
 
