@@ -147,7 +147,7 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0017】[电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)
 
-【0022】括号生成
+【0022】[括号生成](https://leetcode.cn/problems/generate-parentheses/)
 
 【0039】组合总和
 
