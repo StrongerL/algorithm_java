@@ -517,7 +517,7 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0020】[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 
-【0031】下一个排列
+【0031】[下一个排列](https://leetcode.cn/problems/next-permutation/)
 
 【0043】字符串相乘
 
