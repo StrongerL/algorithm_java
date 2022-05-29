@@ -363,6 +363,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0739】[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
 
+【6080】[使数组按非递减顺序排列](https://leetcode.cn/problems/steps-to-make-array-non-decreasing/)
+
 
 
 ## 单调队列
@@ -430,6 +432,10 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【剑指 Offer 05】[替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 
 【剑指 Offer 58 - II】[左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
+
+【6078】[重排字符形成目标字符串](https://leetcode.cn/problems/rearrange-characters-to-make-target-string/)
+
+【6079】[价格减免](https://leetcode.cn/problems/apply-discount-to-prices/)
 
 
 
