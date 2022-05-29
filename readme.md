@@ -139,7 +139,7 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【2244】[完成所有任务需要的最少轮数](https://leetcode-cn.com/problems/minimum-rounds-to-complete-all-tasks/)
 
-【6075】[装满石头的背包的最大数量](https://leetcode.cn/problems/maximum-bags-with-full-capacity-of-rocks/)
+【2279】[装满石头的背包的最大数量](https://leetcode.cn/problems/maximum-bags-with-full-capacity-of-rocks/)
 
 
 
@@ -563,6 +563,10 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【2249】[统计圆内格点数目](https://leetcode-cn.com/problems/count-lattice-points-inside-a-circle/)
 
+【2278】[字母在字符串中的百分比](https://leetcode.cn/problems/percentage-of-letter-in-string/)
+
+【2280】[表示一个折线图的最少线段数](https://leetcode.cn/problems/minimum-lines-to-represent-a-line-chart/)
+
 【剑指 Offer 04】[二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)
 
 【剑指 Offer 09】用两个栈实现队列
@@ -576,8 +580,4 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【剑指 Offer 62】[圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 
 【剑指 Offer 64】[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)
-
-【6074】[字母在字符串中的百分比](https://leetcode.cn/problems/percentage-of-letter-in-string/)
-
-【6076】[表示一个折线图的最少线段数](https://leetcode.cn/problems/minimum-lines-to-represent-a-line-chart/)
 
