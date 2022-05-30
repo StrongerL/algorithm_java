@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0010】[正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
 
-【0032】最长有效括号
+【0032】[最长有效括号](https://leetcode.cn/problems/longest-valid-parentheses/)
 
 【0042】接雨水
 
