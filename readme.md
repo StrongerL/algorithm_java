@@ -149,7 +149,7 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0022】[括号生成](https://leetcode.cn/problems/generate-parentheses/)
 
-【0039】组合总和
+【0039】[组合总和](https://leetcode.cn/problems/combination-sum/)
 
 【0040】组合总和 II
 
