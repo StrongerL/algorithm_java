@@ -141,6 +141,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【2279】[装满石头的背包的最大数量](https://leetcode.cn/problems/maximum-bags-with-full-capacity-of-rocks/)
 
+【6091】[划分数组使最大差为 K](https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/)
+
 
 
 ## 回溯
@@ -502,6 +504,12 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【剑指 Offer 20】[表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)
 
 【剑指 Offer 31】[栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)
+
+【6090】[极大极小游戏](https://leetcode.cn/problems/min-max-game/)
+
+【6092】[替换数组中的元素](https://leetcode.cn/problems/replace-elements-in-an-array/)
+
+【6093】[设计一个文本编辑器](https://leetcode.cn/problems/design-a-text-editor/)
 
 
 
