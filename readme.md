@@ -155,7 +155,7 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0040】组合总和 II
 
-【0046】全排列
+【0046】[全排列](https://leetcode.cn/problems/permutations/)
 
 【0047】全排列 II
 
