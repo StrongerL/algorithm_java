@@ -535,6 +535,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0043】字符串相乘
 
+【0048】[旋转图像](https://leetcode.cn/problems/rotate-image/)
+
 【0049】字母异位词分组
 
 【0056】[合并区间](https://leetcode.cn/problems/merge-intervals/)
