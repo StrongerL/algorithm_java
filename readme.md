@@ -157,7 +157,7 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0046】[全排列](https://leetcode.cn/problems/permutations/)
 
-【0047】全排列 II
+【0047】[全排列 II](https://leetcode.cn/problems/permutations-ii/)
 
 【0051】N皇后
 
