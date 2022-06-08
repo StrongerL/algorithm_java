@@ -129,7 +129,7 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0053】[最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/)
 
-【0055】跳跃游戏
+【0055】[跳跃游戏](https://leetcode.cn/problems/jump-game/)
 
 【0300】最长递增子序列
 
