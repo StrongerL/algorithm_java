@@ -525,6 +525,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 ## 快速幂
 
+【0070】[爬楼梯](https://leetcode.cn/problems/climbing-stairs/)
+
 【剑指 Offer 16】[数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)
 
 
