@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0064】[最小路径和](https://leetcode.cn/problems/minimum-path-sum/)
 
-【0072】编辑距离
+【0072】[编辑距离](https://leetcode.cn/problems/edit-distance/)
 
 【0096】不同的二叉搜索树
 
