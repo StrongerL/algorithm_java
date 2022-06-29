@@ -331,7 +331,7 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0042】[接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
 
-【0075】颜色分类
+【0075】[颜色分类](https://leetcode.cn/problems/sort-colors/)
 
 【0142】环形链表 II
 
