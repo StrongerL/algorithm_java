@@ -169,6 +169,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0078】[子集](https://leetcode.cn/problems/subsets/)
 
+【0079】[单词搜索](https://leetcode.cn/problems/word-search/)
+
 【0090】 子集 II
 
 【0093】复原 IP 地址
