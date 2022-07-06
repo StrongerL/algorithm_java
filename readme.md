@@ -363,7 +363,7 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 ## 单调栈
 
-【0084】柱状图中最大的矩形
+【0084】[柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/)
 
 【0085】最大矩形
 
