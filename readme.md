@@ -6,11 +6,9 @@
 
    1. 命名为：4位题号\_名字\.md
    2. 内容包括：代码、思路、参考资料链接（或者直接全文贴过来）
-
 2. 算法总结。
 
    如果算法非常常见，资料汇总在这里，每个算法占一个文件夹。
-
 3. readme.md
 
    题目分类汇总，未来要加上跳转。
@@ -19,8 +17,6 @@
 
 1. 在代码部分贴出代码。
 2. 在readme.md部分汇总题目。
-
-
 
 ## 学习计划
 
@@ -40,14 +36,10 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 根据自己的计划刷题总结即可，没有必要寻找一个统一的书籍帮助自己总结。
 
-
-
 ## TODO
 
 1. 带标记的dfs
 2. 
-
-
 
 ## 动态规划
 
@@ -123,8 +115,6 @@ TODO【2246】[相邻字符不同的最长路径](https://leetcode-cn.com/proble
 
 TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one/)
 
-
-
 ## 贪心
 
 【0045】[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
@@ -144,8 +134,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【2279】[装满石头的背包的最大数量](https://leetcode.cn/problems/maximum-bags-with-full-capacity-of-rocks/)
 
 【6091】[划分数组使最大差为 K](https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/)
-
-
 
 ## 回溯
 
@@ -185,8 +173,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 38】[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
 
-
-
 ## DFS/BFS
 
 【0129】[求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/)
@@ -204,8 +190,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【剑指 Offer 13】[机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)
 
 【剑指 Offer 17】[打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)
-
-
 
 ## 树
 
@@ -257,8 +241,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 36】[二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)
 
-
-
 ## 排序
 
 【0023】[合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
@@ -278,8 +260,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【剑指 Offer 45】[把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)
 
 【剑指 Offer 51】[数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)
-
-
 
 ## 二分查找
 
@@ -313,13 +293,9 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 53 - II】[0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)
 
-
-
 ## 拓扑排序
 
 【0207】课程表
-
-
 
 ## 双指针
 
@@ -341,9 +317,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0581】最短无序连续子数组
 
-
-
-
 ## 滑动窗口
 
 【0003】无重复字符的最长字串
@@ -358,28 +331,21 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0930】和相同的二元子数组
 
-
-
-
 ## 单调栈
 
 【0084】[柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/)
 
-【0085】最大矩形
+【0085】[最大矩形](https://leetcode.cn/problems/maximal-rectangle/)
 
 【0739】[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
 
 【2289】[使数组按非递减顺序排列](https://leetcode.cn/problems/steps-to-make-array-non-decreasing/)
-
-
 
 ## 单调队列
 
 【0239】[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 
 【剑指 Offer 59 - II】[队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)
-
-
 
 ## 哈希
 
@@ -391,14 +357,9 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 03】[数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)
 
-
-
 ## 并查集
 
 【0399】除法求值
-
-
-
 
 ## 前缀和
 
@@ -410,16 +371,11 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 66】[构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)
 
-
-
 ## 差分数组
 
 【1893】[检查是否区域内所有整数都被覆盖](https://leetcode-cn.com/problems/check-if-all-the-integers-in-a-range-are-covered/)
 
 【2251】[花期内花的数目](https://leetcode-cn.com/problems/number-of-flowers-in-full-bloom/)
-
-
-
 
 ## 字符串
 
@@ -442,8 +398,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【剑指 Offer 05】[替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 
 【剑指 Offer 58 - II】[左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
-
-
 
 ## 链表
 
@@ -471,15 +425,11 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 22】[链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)
 
-
-
 ## 图
 
 【0743】[网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)
 
 【2203】[得到要求路径的最小带权子图](https://leetcode-cn.com/problems/minimum-weighted-subgraph-with-the-required-paths/)
-
-
 
 ## 模拟与设计
 
@@ -515,23 +465,17 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【6093】[设计一个文本编辑器](https://leetcode.cn/problems/design-a-text-editor/)
 
-
-
 ## 位运算
 
 【剑指 Offer 15】[二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)
 
 【剑指 Offer 65】[不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/)
 
-
-
 ## 快速幂
 
 【0070】[爬楼梯](https://leetcode.cn/problems/climbing-stairs/)
 
 【剑指 Offer 16】[数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)
-
-
 
 ## 其他
 
@@ -602,4 +546,3 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【剑指 Offer 62】[圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 
 【剑指 Offer 64】[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/)
-
