@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0072】[编辑距离](https://leetcode.cn/problems/edit-distance/)
 
-【0096】不同的二叉搜索树
+【0096】[不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/)
 
 【0121】[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 
