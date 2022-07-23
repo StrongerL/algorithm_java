@@ -197,6 +197,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0098】[验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/)
 
+【0101】[对称二叉树](https://leetcode.cn/problems/symmetric-tree/)
+
 【0102】[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 
 【0103】[二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
