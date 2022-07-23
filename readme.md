@@ -203,6 +203,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0103】[二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
 
+【0104】[二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
+
 【0105】[从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 
 【0124】[二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)
