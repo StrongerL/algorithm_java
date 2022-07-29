@@ -359,7 +359,7 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0001】[两数之和](https://leetcode-cn.com/problems/two-sum/)
 
-【0128】最长连续序列
+【0128】[最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/)
 
 【0442】[数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
 
