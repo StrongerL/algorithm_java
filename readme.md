@@ -303,7 +303,7 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 ## 拓扑排序
 
-【0207】课程表
+【0207】[课程表](https://leetcode.cn/problems/course-schedule/)
 
 ## 双指针
 
