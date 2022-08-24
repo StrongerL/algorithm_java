@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0139】[单词拆分](https://leetcode-cn.com/problems/word-break/)
 
-【0152】乘积最大子数组
+【0152】[乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/)
 
 【0198】[打家劫舍](https://leetcode.cn/problems/house-robber/)
 
