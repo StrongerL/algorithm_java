@@ -415,6 +415,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0021】[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 
+【0025】[K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/)
+
 【0138】[复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 
 【0141】[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
