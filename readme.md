@@ -219,7 +219,7 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0208】[实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/)
 
-【0226】翻转二叉树
+【0226】[翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/)
 
 【0235】[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
