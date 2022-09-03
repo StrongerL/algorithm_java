@@ -429,6 +429,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0206】[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
 
+【0234】[回文链表](https://leetcode.cn/problems/palindrome-linked-list/)
+
 【0328】奇偶链表
 
 【剑指 Offer 06】[从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
