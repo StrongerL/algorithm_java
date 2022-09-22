@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0264】[丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
 
-【0279】完全平方数
+【0279】[完全平方数](https://leetcode.cn/problems/perfect-squares/)
 
 【0300】最长递增子序列
 
