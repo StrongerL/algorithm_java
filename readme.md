@@ -211,6 +211,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0105】[从前序与中序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 
+【0110】[平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/)
+
 【0114】[二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/)
 
 【0124】[二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)
