@@ -185,6 +185,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0200】[岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
 
+【0329】[矩阵中的最长递增路径](https://leetcode.cn/problems/longest-increasing-path-in-a-matrix/)
+
 【0386】[字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers/)
 
 【0863】二叉树中所有距离为 K 的结点
