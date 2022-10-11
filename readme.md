@@ -245,6 +245,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0543】二叉树的直径
 
+【0559】[N 叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-n-ary-tree/)
+
 【0617】合并二叉树
 
 【2265】[统计值等于子树平均值的节点数](https://leetcode-cn.com/problems/count-nodes-equal-to-average-of-subtree/)
