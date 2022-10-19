@@ -265,6 +265,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0617】合并二叉树
 
+【1038】[从二叉搜索树到更大和树](https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/)
+
 【1302】[层数最深叶子节点的和](https://leetcode.cn/problems/deepest-leaves-sum/)
 
 【2265】[统计值等于子树平均值的节点数](https://leetcode-cn.com/problems/count-nodes-equal-to-average-of-subtree/)
