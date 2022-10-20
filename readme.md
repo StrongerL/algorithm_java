@@ -559,6 +559,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0240】[搜索二维矩阵 II](https://leetcode.cn/problems/search-a-2d-matrix-ii/)
 
+【0382】[链表随机节点](https://leetcode.cn/problems/linked-list-random-node/)
+
 【0394】字符串解码
 
 【0400】[第 N 位数字](https://leetcode-cn.com/problems/nth-digit/)
