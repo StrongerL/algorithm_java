@@ -81,6 +81,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0416】分割等和子集
 
+【0486】[预测赢家](https://leetcode.cn/problems/predict-the-winner/)
+
 【0718】[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) TODO
 
 【2212】[射箭比赛中的最大得分](https://leetcode-cn.com/problems/maximum-points-in-an-archery-competition/)
