@@ -85,6 +85,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0718】[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) TODO
 
+【0877】[石子游戏](https://leetcode.cn/problems/stone-game/)
+
 【2212】[射箭比赛中的最大得分](https://leetcode-cn.com/problems/maximum-points-in-an-archery-competition/)
 
 【2266】[统计打字方案数](https://leetcode-cn.com/problems/count-number-of-texts/)
