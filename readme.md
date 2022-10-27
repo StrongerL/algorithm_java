@@ -493,6 +493,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 ## 图
 
+【0332】[重新安排行程](https://leetcode.cn/problems/reconstruct-itinerary/)
+
 【0743】[网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)
 
 【2203】[得到要求路径的最小带权子图](https://leetcode-cn.com/problems/minimum-weighted-subgraph-with-the-required-paths/)
