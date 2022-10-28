@@ -551,6 +551,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 ## 其他
 
+【0009】[回文数](https://leetcode.cn/problems/palindrome-number/)
+
 【0020】[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 
 【0031】[下一个排列](https://leetcode.cn/problems/next-permutation/)
