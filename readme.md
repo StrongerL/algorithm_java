@@ -445,6 +445,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0005】[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 
+【0006】[Z 字形变换](https://leetcode.cn/problems/zigzag-conversion/)
+
 【0008】[字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 
 【0151】[颠倒字符串中的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
