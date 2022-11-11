@@ -453,6 +453,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0151】[颠倒字符串中的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
 
+【0306】[累加数](https://leetcode.cn/problems/additive-number/)
+
 【0647】回文子串
 
 【0821】[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)
