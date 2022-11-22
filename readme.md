@@ -555,6 +555,12 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 16】[数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)
 
+## 排列组合
+
+【0357】[统计各位数字都不同的数字个数](https://leetcode.cn/problems/count-numbers-with-unique-digits/)
+
+
+
 ## 其他
 
 【0009】[回文数](https://leetcode.cn/problems/palindrome-number/)
