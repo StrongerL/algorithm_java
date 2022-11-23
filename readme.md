@@ -179,6 +179,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0301】删除无效的括号
 
+【0401】[二进制手表](https://leetcode.cn/problems/binary-watch/)
+
 【0473】[火柴拼正方形](https://leetcode.cn/problems/matchsticks-to-square/)
 
 【剑指 Offer 12】[矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
