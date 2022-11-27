@@ -183,6 +183,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0473】[火柴拼正方形](https://leetcode.cn/problems/matchsticks-to-square/)
 
+【0491】[递增子序列](https://leetcode.cn/problems/increasing-subsequences/)
+
 【剑指 Offer 12】[矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
 
 【剑指 Offer 38】[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
