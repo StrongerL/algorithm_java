@@ -229,6 +229,10 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 17】[打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)
 
+### 记忆化搜索
+
+【0638】[大礼包](https://leetcode.cn/problems/shopping-offers/)
+
 ## 树
 
 【0094】[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
