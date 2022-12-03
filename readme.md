@@ -471,6 +471,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0647】回文子串
 
+【0816】[模糊坐标](https://leetcode.cn/problems/ambiguous-coordinates/)
+
 【0821】[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)
 
 【2264】[字符串中最大的 3 位相同数字](https://leetcode-cn.com/problems/largest-3-same-digit-number-in-string/)
