@@ -475,6 +475,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0821】[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)
 
+【0842】[将数组拆分成斐波那契序列](https://leetcode.cn/problems/split-array-into-fibonacci-sequence/)
+
 【2264】[字符串中最大的 3 位相同数字](https://leetcode-cn.com/problems/largest-3-same-digit-number-in-string/)
 
 【2287】[重排字符形成目标字符串](https://leetcode.cn/problems/rearrange-characters-to-make-target-string/)
