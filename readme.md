@@ -191,6 +191,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0784】[字母大小写全排列](https://leetcode.cn/problems/letter-case-permutation/)
 
+【1079】[活字印刷](https://leetcode.cn/problems/letter-tile-possibilities/)
+
 【剑指 Offer 12】[矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
 
 【剑指 Offer 38】[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
