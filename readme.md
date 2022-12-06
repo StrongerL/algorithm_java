@@ -195,6 +195,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【1219】[黄金矿工](https://leetcode.cn/problems/path-with-maximum-gold/)
 
+【1238】[循环码排列](https://leetcode.cn/problems/circular-permutation-in-binary-representation/)
+
 【剑指 Offer 12】[矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
 
 【剑指 Offer 38】[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
