@@ -207,6 +207,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【1718】[构建字典序最大的可行序列](https://leetcode.cn/problems/construct-the-lexicographically-largest-valid-sequence/)
 
+【1774】[最接近目标价格的甜点成本](https://leetcode.cn/problems/closest-dessert-cost/)
+
 【剑指 Offer 12】[矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)
 
 【剑指 Offer 38】[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
