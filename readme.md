@@ -645,6 +645,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【1290】二进制链表转整数
 
+【1980】[找出不同的二进制字符串](https://leetcode.cn/problems/find-unique-binary-string/)
+
 【2210】[统计数组中峰和谷的数量](https://leetcode-cn.com/problems/count-hills-and-valleys-in-an-array/)
 
 【2211】[统计道路上的碰撞次数](https://leetcode-cn.com/problems/count-collisions-on-a-road/)
