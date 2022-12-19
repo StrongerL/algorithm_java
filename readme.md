@@ -571,6 +571,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0415】[字符串相加](https://leetcode-cn.com/problems/add-strings/)
 
+【2048】[下一个更大的数值平衡数](https://leetcode.cn/problems/next-greater-numerically-balanced-number/)
+
 【2217】[找到指定长度的回文数](https://leetcode-cn.com/problems/find-palindrome-with-fixed-length/)
 
 【2227】[加密解密字符串](https://leetcode-cn.com/problems/encrypt-and-decrypt-strings/)
