@@ -231,6 +231,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer 38】[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
 
+【LCP 0051】[烹饪料理](https://leetcode.cn/problems/UEcfPD/)
+
 ## DFS/BFS
 
 【0129】[求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/)
