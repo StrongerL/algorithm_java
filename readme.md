@@ -245,6 +245,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer II 085】[生成匹配的括号](https://leetcode.cn/problems/IDBivT/)
 
+【剑指 Offer II 087】[复原 IP ](https://leetcode.cn/problems/0on3uN/)
+
 【LCP 0051】[烹饪料理](https://leetcode.cn/problems/UEcfPD/)
 
 ## DFS/BFS
