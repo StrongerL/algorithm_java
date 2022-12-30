@@ -241,7 +241,9 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【剑指 Offer II 083】[没有重复元素集合的全排列](https://leetcode.cn/problems/VvJkup/)
 
-【剑指 Offer II 084】[含有重复元素集合的全排列 ](https://leetcode.cn/problems/7p8L0Z/)
+【剑指 Offer II 084】[含有重复元素集合的全排列](https://leetcode.cn/problems/7p8L0Z/)
+
+【剑指 Offer II 085】[生成匹配的括号](https://leetcode.cn/problems/IDBivT/)
 
 【LCP 0051】[烹饪料理](https://leetcode.cn/problems/UEcfPD/)
 
