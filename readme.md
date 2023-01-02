@@ -255,6 +255,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【面试题 08.04】[幂集](https://leetcode.cn/problems/power-set-lcci/)
 
+【面试题 16.18】[模式匹配](https://leetcode.cn/problems/pattern-matching-lcci/)
+
 【LCP 0051】[烹饪料理](https://leetcode.cn/problems/UEcfPD/)
 
 ## DFS/BFS
