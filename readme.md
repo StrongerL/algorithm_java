@@ -91,6 +91,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0343】[整数拆分](https://leetcode.cn/problems/integer-break/)
 
+【0368】[最大整除子集](https://leetcode.cn/problems/largest-divisible-subset/)
+
 【0416】分割等和子集
 
 【0486】[预测赢家](https://leetcode.cn/problems/predict-the-winner/)
