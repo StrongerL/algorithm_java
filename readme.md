@@ -85,6 +85,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0312】戳气球
 
+【0313】[超级丑数](https://leetcode.cn/problems/super-ugly-number/)
+
 【0322】零钱兑换
 
 【0416】分割等和子集
