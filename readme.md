@@ -89,6 +89,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0322】零钱兑换
 
+【0343】[整数拆分](https://leetcode.cn/problems/integer-break/)
+
 【0416】分割等和子集
 
 【0486】[预测赢家](https://leetcode.cn/problems/predict-the-winner/)
