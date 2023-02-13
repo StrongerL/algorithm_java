@@ -123,6 +123,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 ### 0/1背包
 
+【0115】[不同的子序列](https://leetcode.cn/problems/distinct-subsequences/)
+
 【1049】[最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)
 
 ### 分组背包
