@@ -105,6 +105,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0375】[猜数字大小 II](https://leetcode.cn/problems/guess-number-higher-or-lower-ii/)
 
+【0376】[摆动序列](https://leetcode.cn/problems/wiggle-subsequence/)
+
 【0416】分割等和子集
 
 【0486】[预测赢家](https://leetcode.cn/problems/predict-the-winner/)
