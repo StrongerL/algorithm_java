@@ -143,6 +143,10 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【1049】[最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)
 
+### 完全背包
+
+【0518】[零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/)
+
 ### 分组背包
 
 【2218】[从栈中取出 K 个硬币的最大面值和](https://leetcode-cn.com/problems/maximum-value-of-k-coins-from-piles/)
