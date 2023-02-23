@@ -719,6 +719,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0394】字符串解码
 
+【0396】[旋转函数](https://leetcode.cn/problems/rotate-function/)
+
 【0400】[第 N 位数字](https://leetcode-cn.com/problems/nth-digit/)
 
 【0406】根据身高重建队列
