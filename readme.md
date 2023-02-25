@@ -343,6 +343,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0397】[整数替换](https://leetcode.cn/problems/integer-replacement/)
 
+【0403】[青蛙过河](https://leetcode.cn/problems/frog-jump/)
+
 【0638】[大礼包](https://leetcode.cn/problems/shopping-offers/)
 
 ## 树
