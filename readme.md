@@ -469,6 +469,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0300】[最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 
+【0410】[分割数组的最大值](https://leetcode.cn/problems/split-array-largest-sum/)
+
 【0704】[二分查找](https://leetcode-cn.com/problems/binary-search/)
 
 【1287】有序数组中出现次数超过25%的元素
