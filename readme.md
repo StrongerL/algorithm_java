@@ -743,6 +743,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0458】[可怜的小猪](https://leetcode.cn/problems/poor-pigs/)
 
+【0466】[统计重复个数](https://leetcode.cn/problems/count-the-repetitions/)
+
 【0621】任务调度器
 
 【1290】二进制链表转整数
