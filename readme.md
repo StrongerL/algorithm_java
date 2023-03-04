@@ -113,6 +113,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0416】分割等和子集
 
+【0467】[环绕字符串中唯一的子字符串](https://leetcode.cn/problems/unique-substrings-in-wraparound-string/)
+
 【0486】[预测赢家](https://leetcode.cn/problems/predict-the-winner/)
 
 【0718】[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) TODO
