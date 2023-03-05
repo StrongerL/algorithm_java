@@ -437,6 +437,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0211】[添加与搜索单词 - 数据结构设计](https://leetcode.cn/problems/design-add-and-search-words-data-structure/)
 
+【0472】[连接词](https://leetcode.cn/problems/concatenated-words/)
+
 ## 排序
 
 【0023】[合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
