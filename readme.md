@@ -117,6 +117,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0486】[预测赢家](https://leetcode.cn/problems/predict-the-winner/)
 
+【0509】[斐波那契数](https://leetcode.cn/problems/fibonacci-number/)
+
 【0718】[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) TODO
 
 【0877】[石子游戏](https://leetcode.cn/problems/stone-game/)
