@@ -36,11 +36,6 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 根据自己的计划刷题总结即可，没有必要寻找一个统一的书籍帮助自己总结。
 
-## TODO
-
-1. 带标记的dfs
-2. 
-
 ## 动态规划
 
 【0010】[正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
