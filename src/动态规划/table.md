@@ -8,7 +8,7 @@
 | 1025 | &#9745; | [Divisor Game  ](https://leetcode.cn/problems/divisor-game)  | **Easy**       | **1.Linear DP**                |                            |
 | 123  | &#9745; | [Best Time to Buy and Sell Stock III  ](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii) | **Hard**       | **1.Linear DP**                |                            |
 | 552  | &#9745; | [Student Attendance Record II  ](https://leetcode.cn/problems/student-attendance-record-ii) | **Hard**       | **1.Linear DP**                |                            |
-| 639  |         | [Decode Ways II  ](https://leetcode.cn/problems/decode-ways-ii) | **Hard**       | **1.Linear DP**                |                            |
+| 639  | &#9745; | [Decode Ways II  ](https://leetcode.cn/problems/decode-ways-ii) | **Hard**       | **1.Linear DP**                |                            |
 | 982  |         | [Triples with Bitwise AND Equal To Zero  ](https://leetcode.cn/problems/triples-with-bitwise-and-equal-to-zero) | **Hard**       | **1.Linear DP**                |                            |
 | 1235 |         | [Maximum Profit in Job Scheduling  ](https://leetcode.cn/problems/maximum-profit-in-job-scheduling) | **Hard**       | **1.Linear DP**                |                            |
 | 1326 |         | [Minimum Number of Taps to Open to Water a Garden  ](https://leetcode.cn/problems/minimum-number-of-taps-to-open-to-water-a-garden) | **Hard**       | **1.Linear DP**                |                            |
