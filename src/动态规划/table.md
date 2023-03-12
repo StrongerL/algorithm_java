@@ -1,6 +1,6 @@
 # 动态规划列表
 
-| **#  |         | **Title**                                                    | **Difficulty** | **Category**                   | **Sub-Category**           |
+| ID   | Done    | **Title**                                                    | **Difficulty** | **Category**                   | **Sub-Category**           |
 | ---- | ------- | ------------------------------------------------------------ | -------------- | ------------------------------ | -------------------------- |
 | 70   | &#9745; | [Climbing Stairs  ](https://leetcode.cn/problems/climbing-stairs) | **Easy**       | **1.Linear DP**                |                            |
 | 121  | &#9745; | [Best Time to Buy and Sell Stock  ](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock) | **Easy**       | **1.Linear DP**                |                            |
@@ -9,7 +9,7 @@
 | 123  | &#9745; | [Best Time to Buy and Sell Stock III  ](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii) | **Hard**       | **1.Linear DP**                |                            |
 | 552  | &#9745; | [Student Attendance Record II  ](https://leetcode.cn/problems/student-attendance-record-ii) | **Hard**       | **1.Linear DP**                |                            |
 | 639  | &#9745; | [Decode Ways II  ](https://leetcode.cn/problems/decode-ways-ii) | **Hard**       | **1.Linear DP**                |                            |
-| 1235 |         | [Maximum Profit in Job Scheduling  ](https://leetcode.cn/problems/maximum-profit-in-job-scheduling) | **Hard**       | **1.Linear DP**                |                            |
+| 1235 | &#9745; | [Maximum Profit in Job Scheduling  ](https://leetcode.cn/problems/maximum-profit-in-job-scheduling) | **Hard**       | **1.Linear DP**                |                            |
 | 1326 |         | [Minimum Number of Taps to Open to Water a Garden  ](https://leetcode.cn/problems/minimum-number-of-taps-to-open-to-water-a-garden) | **Hard**       | **1.Linear DP**                |                            |
 | 1359 |         | [Count All Valid Pickup and Delivery Options  ](https://leetcode.cn/problems/count-all-valid-pickup-and-delivery-options) | **Hard**       | **1.Linear DP**                |                            |
 | 1406 |         | [Stone Game III  ](https://leetcode.cn/problems/stone-game-iii) | **Hard**       | **1.Linear DP**                |                            |

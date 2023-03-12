@@ -146,6 +146,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0639】[解码方法 II](https://leetcode.cn/problems/decode-ways-ii/)
 
+【1235】[规划兼职工作](https://leetcode.cn/problems/maximum-profit-in-job-scheduling/)
+
 ### 0/1背包
 
 【0115】[不同的子序列](https://leetcode.cn/problems/distinct-subsequences/)
