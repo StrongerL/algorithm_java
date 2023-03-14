@@ -11,7 +11,6 @@
 | 639  | &#9745; | [Decode Ways II  ](https://leetcode.cn/problems/decode-ways-ii) | **Hard**       | **1.Linear DP**                |                            |
 | 1235 | &#9745; | [Maximum Profit in Job Scheduling  ](https://leetcode.cn/problems/maximum-profit-in-job-scheduling) | **Hard**       | **1.Linear DP**                |                            |
 | 1326 | &#9745; | [Minimum Number of Taps to Open to Water a Garden  ](https://leetcode.cn/problems/minimum-number-of-taps-to-open-to-water-a-garden) | **Hard**       | **1.Linear DP**                |                            |
-| 1359 |         | [Count All Valid Pickup and Delivery Options  ](https://leetcode.cn/problems/count-all-valid-pickup-and-delivery-options) | **Hard**       | **1.Linear DP**                |                            |
 | 1406 |         | [Stone Game III  ](https://leetcode.cn/problems/stone-game-iii) | **Hard**       | **1.Linear DP**                |                            |
 | 1416 |         | [Restore The Array  ](https://leetcode.cn/problems/restore-the-array) | **Hard**       | **1.Linear DP**                |                            |
 | 1449 |         | [Form Largest Integer With Digits That Add up to Target  ](https://leetcode.cn/problems/form-largest-integer-with-digits-that-add-up-to-target) | **Hard**       | **1.Linear DP**                |                            |

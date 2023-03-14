@@ -720,6 +720,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0357】[统计各位数字都不同的数字个数](https://leetcode.cn/problems/count-numbers-with-unique-digits/)
 
+【1359】[有效的快递序列数目](https://leetcode.cn/problems/count-all-valid-pickup-and-delivery-options/)
+
 ## 二进制枚举
 
 【0982】[按位与为零的三元组](https://leetcode.cn/problems/triples-with-bitwise-and-equal-to-zero/)
