@@ -35,7 +35,7 @@
 | 1043 |         | [Partition Array for Maximum Sum  ](https://leetcode.cn/problems/partition-array-for-maximum-sum) | **Medium**     | **1.Linear DP**                |                            |
 | 1105 |         | [Filling Bookcase Shelves  ](https://leetcode.cn/problems/filling-bookcase-shelves) | **Medium**     | **1.Linear DP**                |                            |
 | 1218 |         | [Longest Arithmetic Subsequence of Given Difference  ](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference) | **Medium**     | **1.Linear DP**                |                            |
-| 1262 |         | [Greatest Sum Divisible by Three  ](https://leetcode.cn/problems/greatest-sum-divisible-by-three) | **Medium**     | **1.Linear DP**                |                            |
+| 1262 | &#9745; | [Greatest Sum Divisible by Three  ](https://leetcode.cn/problems/greatest-sum-divisible-by-three) | **Medium**     | **1.Linear DP**                |                            |
 | 879  |         | [Profitable Schemes  ](https://leetcode.cn/problems/profitable-schemes) | **Hard**       | **2.Knapsack**                 |                            |
 | 956  |         | [Tallest Billboard  ](https://leetcode.cn/problems/tallest-billboard) | **Hard**       | **2.Knapsack**                 |                            |
 | 1388 |         | [Pizza With 3n Slices  ](https://leetcode.cn/problems/pizza-with-3n-slices) | **Hard**       | **2.Knapsack**                 |                            |

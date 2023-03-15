@@ -148,6 +148,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【1235】[规划兼职工作](https://leetcode.cn/problems/maximum-profit-in-job-scheduling/)
 
+【1262】[可被三整除的最大和](https://leetcode.cn/problems/greatest-sum-divisible-by-three/)
+
 【1326】[灌溉花园的最少水龙头数目](https://leetcode.cn/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
 
 【1406】[石子游戏 III](https://leetcode.cn/problems/stone-game-iii/)
