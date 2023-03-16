@@ -154,6 +154,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【1406】[石子游戏 III](https://leetcode.cn/problems/stone-game-iii/)
 
+【1416】[恢复数组](https://leetcode.cn/problems/restore-the-array/)
+
 ### 0/1背包
 
 【0115】[不同的子序列](https://leetcode.cn/problems/distinct-subsequences/)
