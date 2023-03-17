@@ -13,7 +13,6 @@
 | 1326 | &#9745; | [Minimum Number of Taps to Open to Water a Garden  ](https://leetcode.cn/problems/minimum-number-of-taps-to-open-to-water-a-garden) | **Hard**       | **1.Linear DP**                |                            |
 | 1406 | &#9745; | [Stone Game III  ](https://leetcode.cn/problems/stone-game-iii) | **Hard**       | **1.Linear DP**                |                            |
 | 1416 | &#9745; | [Restore The Array  ](https://leetcode.cn/problems/restore-the-array) | **Hard**       | **1.Linear DP**                |                            |
-| 1449 |         | [Form Largest Integer With Digits That Add up to Target  ](https://leetcode.cn/problems/form-largest-integer-with-digits-that-add-up-to-target) | **Hard**       | **1.Linear DP**                |                            |
 | 1510 |         | [Stone Game IV  ](https://leetcode.cn/problems/stone-game-iv) | **Hard**       | **1.Linear DP**                |                            |
 | 91   | &#9745; | [Decode Ways  ](https://leetcode.cn/problems/decode-ways)    | **Medium**     | **1.Linear DP**                |                            |
 | 96   | &#9745; | [Unique Binary Search Trees  ](https://leetcode.cn/problems/unique-binary-search-trees) | **Medium**     | **1.Linear DP**                |                            |
@@ -40,6 +39,7 @@
 | 956  |         | [Tallest Billboard  ](https://leetcode.cn/problems/tallest-billboard) | **Hard**       | **2.Knapsack**                 |                            |
 | 1388 |         | [Pizza With 3n Slices  ](https://leetcode.cn/problems/pizza-with-3n-slices) | **Hard**       | **2.Knapsack**                 |                            |
 | 1402 |         | [Reducing Dishes  ](https://leetcode.cn/problems/reducing-dishes) | **Hard**       | **2.Knapsack**                 |                            |
+| 1449 | &#9745; | [Form Largest Integer With Digits That Add up to Target  ](https://leetcode.cn/problems/form-largest-integer-with-digits-that-add-up-to-target) | **Hard**       | **2.Knapsack**                 |                            |
 | 213  | &#9745; | [House Robber II  ](https://leetcode.cn/problems/house-robber-ii) | **Medium**     | **2.Knapsack**                 |                            |
 | 474  | &#9745; | [Ones and Zeroes  ](https://leetcode.cn/problems/ones-and-zeroes) | **Medium**     | **2.Knapsack**                 |                            |
 | 494  | &#9745; | [Target Sum  ](https://leetcode.cn/problems/target-sum)      | **Medium**     | **2.Knapsack**                 |                            |
