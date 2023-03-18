@@ -13,7 +13,7 @@
 | 1326 | &#9745; | [Minimum Number of Taps to Open to Water a Garden  ](https://leetcode.cn/problems/minimum-number-of-taps-to-open-to-water-a-garden) | **Hard**       | **1.Linear DP**                |                            |
 | 1406 | &#9745; | [Stone Game III  ](https://leetcode.cn/problems/stone-game-iii) | **Hard**       | **1.Linear DP**                |                            |
 | 1416 | &#9745; | [Restore The Array  ](https://leetcode.cn/problems/restore-the-array) | **Hard**       | **1.Linear DP**                |                            |
-| 1510 |         | [Stone Game IV  ](https://leetcode.cn/problems/stone-game-iv) | **Hard**       | **1.Linear DP**                |                            |
+| 1510 | &#9745; | [Stone Game IV  ](https://leetcode.cn/problems/stone-game-iv) | **Hard**       | **1.Linear DP**                |                            |
 | 91   | &#9745; | [Decode Ways  ](https://leetcode.cn/problems/decode-ways)    | **Medium**     | **1.Linear DP**                |                            |
 | 96   | &#9745; | [Unique Binary Search Trees  ](https://leetcode.cn/problems/unique-binary-search-trees) | **Medium**     | **1.Linear DP**                |                            |
 | 198  | &#9745; | [House Robber  ](https://leetcode.cn/problems/house-robber)  | **Medium**     | **1.Linear DP**                |                            |
