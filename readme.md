@@ -82,8 +82,6 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0279】[完全平方数](https://leetcode.cn/problems/perfect-squares/)
 
-【0300】最长递增子序列
-
 【0309】最佳买卖股票时机含冷冻期
 
 【0312】戳气球
@@ -137,6 +135,12 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 【剑指 Offer 47】[礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
 
 【剑指 Offer 60】[n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/)
+
+### LIS
+
+【0300】[最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+
+【0646】[最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/)
 
 ### 线性DP
 
@@ -201,8 +205,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【0053】[最大子数组和](https://leetcode-cn.com/problems/maximum-subarray/)
 
 【0055】[跳跃游戏](https://leetcode.cn/problems/jump-game/)
-
-【0300】最长递增子序列
 
 【0435】[无重叠区间](https://leetcode.cn/problems/non-overlapping-intervals/)
 
@@ -507,8 +509,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【0162】寻找峰值
 
 【0278】[第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)
-
-【0300】[最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 
 【0410】[分割数组的最大值](https://leetcode.cn/problems/split-array-largest-sum/)
 
