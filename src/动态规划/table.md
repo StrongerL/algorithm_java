@@ -18,7 +18,7 @@
 | 376  | &#9745; | [Wiggle Subsequence  ](https://leetcode.cn/problems/wiggle-subsequence) | **Medium**     | **1.Linear DP**                |                            |
 | 416  | &#9745; | [Partition Equal Subset Sum  ](https://leetcode.cn/problems/partition-equal-subset-sum) | **Medium**     | **1.Linear DP**                |                            |
 | 646  |         | [Maximum Length of Pair Chain  ](https://leetcode.cn/problems/maximum-length-of-pair-chain) | **Medium**     | **1.Linear DP**                |                            |
-| 714  |         | [Best Time to Buy and Sell Stock with Transaction Fee  ](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | **Medium**     | **1.Linear DP**                |                            |
+| 714  | &#9745; | [Best Time to Buy and Sell Stock with Transaction Fee  ](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | **Medium**     | **1.Linear DP**                |                            |
 | 740  |         | [Delete and Earn  ](https://leetcode.cn/problems/delete-and-earn) | **Medium**     | **1.Linear DP**                |                            |
 | 790  |         | [Domino and Tromino Tiling  ](https://leetcode.cn/problems/domino-and-tromino-tiling) | **Medium**     | **1.Linear DP**                |                            |
 | 935  |         | [Knight Dialer  ](https://leetcode.cn/problems/knight-dialer) | **Medium**     | **1.Linear DP**                |                            |
