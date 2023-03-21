@@ -146,6 +146,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0714】[买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 
+【0740】[删除并获得点数](https://leetcode.cn/problems/delete-and-earn/)
+
 【0746】[使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/)
 
 【0552】[学生出勤记录 II](https://leetcode.cn/problems/student-attendance-record-ii/)
