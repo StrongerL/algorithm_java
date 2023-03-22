@@ -144,6 +144,10 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 ### 线性DP
 
+【0552】[学生出勤记录 II](https://leetcode.cn/problems/student-attendance-record-ii/)
+
+【0639】[解码方法 II](https://leetcode.cn/problems/decode-ways-ii/)
+
 【0714】[买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 
 【0740】[删除并获得点数](https://leetcode.cn/problems/delete-and-earn/)
@@ -152,9 +156,7 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0790】[多米诺和托米诺平铺](https://leetcode.cn/problems/domino-and-tromino-tiling/)
 
-【0552】[学生出勤记录 II](https://leetcode.cn/problems/student-attendance-record-ii/)
-
-【0639】[解码方法 II](https://leetcode.cn/problems/decode-ways-ii/)
+【0935】[骑士拨号器](https://leetcode.cn/problems/knight-dialer/)
 
 【1235】[规划兼职工作](https://leetcode.cn/problems/maximum-profit-in-job-scheduling/)
 

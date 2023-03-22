@@ -20,7 +20,7 @@
 | 714  | &#9745; | [Best Time to Buy and Sell Stock with Transaction Fee  ](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | **Medium**     | **1.Linear DP**                |                            |
 | 740  | &#9745; | [Delete and Earn  ](https://leetcode.cn/problems/delete-and-earn) | **Medium**     | **1.Linear DP**                |                            |
 | 790  | &#9745; | [Domino and Tromino Tiling  ](https://leetcode.cn/problems/domino-and-tromino-tiling) | **Medium**     | **1.Linear DP**                |                            |
-| 935  |         | [Knight Dialer  ](https://leetcode.cn/problems/knight-dialer) | **Medium**     | **1.Linear DP**                |                            |
+| 935  | &#9745; | [Knight Dialer  ](https://leetcode.cn/problems/knight-dialer) | **Medium**     | **1.Linear DP**                |                            |
 | 983  |         | [Minimum Cost For Tickets  ](https://leetcode.cn/problems/minimum-cost-for-tickets) | **Medium**     | **1.Linear DP**                |                            |
 | 1043 |         | [Partition Array for Maximum Sum  ](https://leetcode.cn/problems/partition-array-for-maximum-sum) | **Medium**     | **1.Linear DP**                |                            |
 | 1105 |         | [Filling Bookcase Shelves  ](https://leetcode.cn/problems/filling-bookcase-shelves) | **Medium**     | **1.Linear DP**                |                            |
