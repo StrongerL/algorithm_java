@@ -150,6 +150,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0746】[使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/)
 
+【0790】[多米诺和托米诺平铺](https://leetcode.cn/problems/domino-and-tromino-tiling/)
+
 【0552】[学生出勤记录 II](https://leetcode.cn/problems/student-attendance-record-ii/)
 
 【0639】[解码方法 II](https://leetcode.cn/problems/decode-ways-ii/)
