@@ -22,7 +22,7 @@
 | 790  | &#9745; | [Domino and Tromino Tiling  ](https://leetcode.cn/problems/domino-and-tromino-tiling) | **Medium**     | **1.Linear DP**                |                            |
 | 935  | &#9745; | [Knight Dialer  ](https://leetcode.cn/problems/knight-dialer) | **Medium**     | **1.Linear DP**                |                            |
 | 983  | &#9745; | [Minimum Cost For Tickets  ](https://leetcode.cn/problems/minimum-cost-for-tickets) | **Medium**     | **1.Linear DP**                |                            |
-| 1043 |         | [Partition Array for Maximum Sum  ](https://leetcode.cn/problems/partition-array-for-maximum-sum) | **Medium**     | **1.Linear DP**                |                            |
+| 1043 | &#9745; | [Partition Array for Maximum Sum  ](https://leetcode.cn/problems/partition-array-for-maximum-sum) | **Medium**     | **1.Linear DP**                |                            |
 | 1105 |         | [Filling Bookcase Shelves  ](https://leetcode.cn/problems/filling-bookcase-shelves) | **Medium**     | **1.Linear DP**                |                            |
 | 1218 |         | [Longest Arithmetic Subsequence of Given Difference  ](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference) | **Medium**     | **1.Linear DP**                |                            |
 | 1262 | &#9745; | [Greatest Sum Divisible by Three  ](https://leetcode.cn/problems/greatest-sum-divisible-by-three) | **Medium**     | **1.Linear DP**                |                            |

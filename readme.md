@@ -160,6 +160,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0983】[最低票价](https://leetcode.cn/problems/minimum-cost-for-tickets/)
 
+【1043】[分隔数组以得到最大和](https://leetcode.cn/problems/partition-array-for-maximum-sum/)
+
 【1235】[规划兼职工作](https://leetcode.cn/problems/maximum-profit-in-job-scheduling/)
 
 【1262】[可被三整除的最大和](https://leetcode.cn/problems/greatest-sum-divisible-by-three/)
