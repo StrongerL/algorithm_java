@@ -164,6 +164,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【1105】[填充书架](https://leetcode.cn/problems/filling-bookcase-shelves/)
 
+【1218】[最长定差子序列](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/)
+
 【1235】[规划兼职工作](https://leetcode.cn/problems/maximum-profit-in-job-scheduling/)
 
 【1262】[可被三整除的最大和](https://leetcode.cn/problems/greatest-sum-divisible-by-three/)
