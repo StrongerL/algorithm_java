@@ -17,6 +17,7 @@
 | 357  | &#9745; | [Count Numbers with Unique Digits  ](https://leetcode.cn/problems/count-numbers-with-unique-digits) | **Medium**     | **1.Linear DP**                |                            |
 | 376  | &#9745; | [Wiggle Subsequence  ](https://leetcode.cn/problems/wiggle-subsequence) | **Medium**     | **1.Linear DP**                |                            |
 | 416  | &#9745; | [Partition Equal Subset Sum  ](https://leetcode.cn/problems/partition-equal-subset-sum) | **Medium**     | **1.Linear DP**                |                            |
+| 650  | &#9745; | [2 Keys Keyboard  ](https://leetcode.cn/problems/2-keys-keyboard) | **Medium**     | **1.Linear DP**                |                            |
 | 714  | &#9745; | [Best Time to Buy and Sell Stock with Transaction Fee  ](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | **Medium**     | **1.Linear DP**                |                            |
 | 740  | &#9745; | [Delete and Earn  ](https://leetcode.cn/problems/delete-and-earn) | **Medium**     | **1.Linear DP**                |                            |
 | 790  | &#9745; | [Domino and Tromino Tiling  ](https://leetcode.cn/problems/domino-and-tromino-tiling) | **Medium**     | **1.Linear DP**                |                            |
@@ -39,7 +40,6 @@
 | 474  | &#9745; | [Ones and Zeroes  ](https://leetcode.cn/problems/ones-and-zeroes) | **Medium**     | **2.Knapsack**                 |                            |
 | 494  | &#9745; | [Target Sum  ](https://leetcode.cn/problems/target-sum)      | **Medium**     | **2.Knapsack**                 |                            |
 | 638  | &#9745; | [Shopping Offers  ](https://leetcode.cn/problems/shopping-offers) | **Medium**     | **2.Knapsack**                 |                            |
-| 650  |         | [2 Keys Keyboard  ](https://leetcode.cn/problems/2-keys-keyboard) | **Medium**     | **2.Knapsack**                 |                            |
 | 801  |         | [Minimum Swaps To Make Sequences Increasing  ](https://leetcode.cn/problems/minimum-swaps-to-make-sequences-increasing) | **Medium**     | **2.Knapsack**                 |                            |
 | 1626 |         | [Best Team With No Conflicts  ](https://leetcode.cn/problems/best-team-with-no-conflicts) | **Medium**     | **2.Knapsack**                 |                            |
 | 879  |         | [Profitable Schemes  ](https://leetcode.cn/problems/profitable-schemes) | **Hard**       | **2.Knapsack**                 |                            |

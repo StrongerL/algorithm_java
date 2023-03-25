@@ -148,6 +148,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【0639】[解码方法 II](https://leetcode.cn/problems/decode-ways-ii/)
 
+【0650】[只有两个键的键盘](https://leetcode.cn/problems/2-keys-keyboard/)
+
 【0714】[买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 
 【0740】[删除并获得点数](https://leetcode.cn/problems/delete-and-earn/)
