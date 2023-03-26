@@ -27,6 +27,7 @@
 | 1105 | &#9745; | [Filling Bookcase Shelves  ](https://leetcode.cn/problems/filling-bookcase-shelves) | **Medium**     | **1.Linear DP**                |                            |
 | 1218 | &#9745; | [Longest Arithmetic Subsequence of Given Difference  ](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference) | **Medium**     | **1.Linear DP**                |                            |
 | 1262 | &#9745; | [Greatest Sum Divisible by Three  ](https://leetcode.cn/problems/greatest-sum-divisible-by-three) | **Medium**     | **1.Linear DP**                |                            |
+| 1626 | &#9745; | [Best Team With No Conflicts  ](https://leetcode.cn/problems/best-team-with-no-conflicts) | **Medium**     | **1.Linear DP**                |                            |
 | 123  | &#9745; | [Best Time to Buy and Sell Stock III  ](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii) | **Hard**       | **1.Linear DP**                |                            |
 | 552  | &#9745; | [Student Attendance Record II  ](https://leetcode.cn/problems/student-attendance-record-ii) | **Hard**       | **1.Linear DP**                |                            |
 | 639  | &#9745; | [Decode Ways II  ](https://leetcode.cn/problems/decode-ways-ii) | **Hard**       | **1.Linear DP**                |                            |
@@ -40,8 +41,7 @@
 | 474  | &#9745; | [Ones and Zeroes  ](https://leetcode.cn/problems/ones-and-zeroes) | **Medium**     | **2.Knapsack**                 |                            |
 | 494  | &#9745; | [Target Sum  ](https://leetcode.cn/problems/target-sum)      | **Medium**     | **2.Knapsack**                 |                            |
 | 638  | &#9745; | [Shopping Offers  ](https://leetcode.cn/problems/shopping-offers) | **Medium**     | **2.Knapsack**                 |                            |
-| 801  |         | [Minimum Swaps To Make Sequences Increasing  ](https://leetcode.cn/problems/minimum-swaps-to-make-sequences-increasing) | **Medium**     | **2.Knapsack**                 |                            |
-| 1626 |         | [Best Team With No Conflicts  ](https://leetcode.cn/problems/best-team-with-no-conflicts) | **Medium**     | **2.Knapsack**                 |                            |
+| 801  |         | [Minimum Swaps To Make Sequences Increasing  ](https://leetcode.cn/problems/minimum-swaps-to-make-sequences-increasing) | **Hard**       | **2.Knapsack**                 |                            |
 | 879  |         | [Profitable Schemes  ](https://leetcode.cn/problems/profitable-schemes) | **Hard**       | **2.Knapsack**                 |                            |
 | 956  |         | [Tallest Billboard  ](https://leetcode.cn/problems/tallest-billboard) | **Hard**       | **2.Knapsack**                 |                            |
 | 1388 |         | [Pizza With 3n Slices  ](https://leetcode.cn/problems/pizza-with-3n-slices) | **Hard**       | **2.Knapsack**                 |                            |

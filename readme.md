@@ -180,6 +180,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【1510】[石子游戏 IV](https://leetcode.cn/problems/stone-game-iv/)
 
+【1626】[无矛盾的最佳球队](https://leetcode.cn/problems/best-team-with-no-conflicts/)
+
 ### 0/1背包
 
 【0115】[不同的子序列](https://leetcode.cn/problems/distinct-subsequences/)
