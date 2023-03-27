@@ -50,7 +50,6 @@
 |      |         |                                                              |                |                                |                            |
 | 120  | &#9745; | [Triangle  ](https://leetcode.cn/problems/triangle)          | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 377  | &#9745; | [Combination Sum IV  ](https://leetcode.cn/problems/combination-sum-iv) | **Medium**     | **3.Multi Dimensions DP**      |                            |
-| 576  |         | [Out of Boundary Paths  ](https://leetcode.cn/problems/out-of-boundary-paths) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 688  |         | [Knight Probability in Chessboard  ](https://leetcode.cn/problems/knight-probability-in-chessboard) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 799  |         | [Champagne Tower  ](https://leetcode.cn/problems/champagne-tower) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 813  |         | [Largest Sum of Averages  ](https://leetcode.cn/problems/largest-sum-of-averages) | **Medium**     | **3.Multi Dimensions DP**      |                            |
