@@ -182,6 +182,12 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【1626】[无矛盾的最佳球队](https://leetcode.cn/problems/best-team-with-no-conflicts/)
 
+### 多维dp
+
+【0576】[出界的路径数](https://leetcode.cn/problems/out-of-boundary-paths/)
+
+【0688】[骑士在棋盘上的概率](https://leetcode.cn/problems/knight-probability-in-chessboard/)
+
 ### 0/1背包
 
 【0115】[不同的子序列](https://leetcode.cn/problems/distinct-subsequences/)
@@ -403,8 +409,6 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 【0403】[青蛙过河](https://leetcode.cn/problems/frog-jump/)
 
 【0464】[我能赢吗](https://leetcode.cn/problems/can-i-win/)
-
-【0576】[出界的路径数](https://leetcode.cn/problems/out-of-boundary-paths/)
 
 【0638】[大礼包](https://leetcode.cn/problems/shopping-offers/)
 
