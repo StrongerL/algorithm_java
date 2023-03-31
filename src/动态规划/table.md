@@ -54,7 +54,7 @@
 | 688  | &#9745; | [Knight Probability in Chessboard  ](https://leetcode.cn/problems/knight-probability-in-chessboard) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 799  | &#9745; | [Champagne Tower  ](https://leetcode.cn/problems/champagne-tower) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 813  | &#9745; | [Largest Sum of Averages  ](https://leetcode.cn/problems/largest-sum-of-averages) | **Medium**     | **3.Multi Dimensions DP**      |                            |
-| 931  |         | [Minimum Falling Path Sum  ](https://leetcode.cn/problems/minimum-falling-path-sum) | **Medium**     | **3.Multi Dimensions DP**      |                            |
+| 931  | &#9745; | [Minimum Falling Path Sum  ](https://leetcode.cn/problems/minimum-falling-path-sum) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1024 |         | [Video Stitching  ](https://leetcode.cn/problems/video-stitching) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1027 |         | [Longest Arithmetic Subsequence  ](https://leetcode.cn/problems/longest-arithmetic-subsequence) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1140 |         | [Stone Game II  ](https://leetcode.cn/problems/stone-game-ii) | **Medium**     | **3.Multi Dimensions DP**      |                            |
