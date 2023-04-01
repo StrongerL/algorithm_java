@@ -55,8 +55,8 @@
 | 799  | &#9745; | [Champagne Tower  ](https://leetcode.cn/problems/champagne-tower) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 813  | &#9745; | [Largest Sum of Averages  ](https://leetcode.cn/problems/largest-sum-of-averages) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 931  | &#9745; | [Minimum Falling Path Sum  ](https://leetcode.cn/problems/minimum-falling-path-sum) | **Medium**     | **3.Multi Dimensions DP**      |                            |
-| 1024 |         | [Video Stitching  ](https://leetcode.cn/problems/video-stitching) | **Medium**     | **3.Multi Dimensions DP**      |                            |
-| 1027 |         | [Longest Arithmetic Subsequence  ](https://leetcode.cn/problems/longest-arithmetic-subsequence) | **Medium**     | **3.Multi Dimensions DP**      |                            |
+| 1024 | &#9745; | [Video Stitching  ](https://leetcode.cn/problems/video-stitching) | **Medium**     | **3.Multi Dimensions DP**      |                            |
+| 1027 | &#9745; | [Longest Arithmetic Subsequence  ](https://leetcode.cn/problems/longest-arithmetic-subsequence) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1140 |         | [Stone Game II  ](https://leetcode.cn/problems/stone-game-ii) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1155 |         | [Number of Dice Rolls With Target Sum  ](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1223 |         | [Dice Roll Simulation  ](https://leetcode.cn/problems/dice-roll-simulation) | **Medium**     | **3.Multi Dimensions DP**      |                            |
