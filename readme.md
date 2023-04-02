@@ -196,6 +196,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【1027】[最长等差数列](https://leetcode.cn/problems/longest-arithmetic-subsequence/)
 
+【1140】[石子游戏 II](https://leetcode.cn/problems/stone-game-ii/)
+
 ### 0/1背包
 
 【0115】[不同的子序列](https://leetcode.cn/problems/distinct-subsequences/)

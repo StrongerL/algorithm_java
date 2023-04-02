@@ -57,7 +57,7 @@
 | 931  | &#9745; | [Minimum Falling Path Sum  ](https://leetcode.cn/problems/minimum-falling-path-sum) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1024 | &#9745; | [Video Stitching  ](https://leetcode.cn/problems/video-stitching) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1027 | &#9745; | [Longest Arithmetic Subsequence  ](https://leetcode.cn/problems/longest-arithmetic-subsequence) | **Medium**     | **3.Multi Dimensions DP**      |                            |
-| 1140 |         | [Stone Game II  ](https://leetcode.cn/problems/stone-game-ii) | **Medium**     | **3.Multi Dimensions DP**      |                            |
+| 1140 | &#9745; | [Stone Game II  ](https://leetcode.cn/problems/stone-game-ii) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1155 |         | [Number of Dice Rolls With Target Sum  ](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1223 |         | [Dice Roll Simulation  ](https://leetcode.cn/problems/dice-roll-simulation) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1621 |         | [Number of Sets of K Non-Overlapping Line Segments  ](https://leetcode.cn/problems/number-of-sets-of-k-non-overlapping-line-segments) | **Medium**     | **3.Multi Dimensions DP**      |                            |
