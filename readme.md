@@ -214,6 +214,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 ### 分组背包
 
+【1155】[掷骰子的N种方法](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum/)
+
 【2218】[从栈中取出 K 个硬币的最大面值和](https://leetcode-cn.com/problems/maximum-value-of-k-coins-from-piles/)
 
 ### 树状DP

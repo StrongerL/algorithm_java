@@ -41,6 +41,7 @@
 | 474  | &#9745; | [Ones and Zeroes  ](https://leetcode.cn/problems/ones-and-zeroes) | **Medium**     | **2.Knapsack**                 |                            |
 | 494  | &#9745; | [Target Sum  ](https://leetcode.cn/problems/target-sum)      | **Medium**     | **2.Knapsack**                 |                            |
 | 638  | &#9745; | [Shopping Offers  ](https://leetcode.cn/problems/shopping-offers) | **Medium**     | **2.Knapsack**                 |                            |
+| 1155 | &#9745; | [Number of Dice Rolls With Target Sum  ](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum) | **Medium**     | **2.Knapsack**                 |                            |
 | 801  |         | [Minimum Swaps To Make Sequences Increasing  ](https://leetcode.cn/problems/minimum-swaps-to-make-sequences-increasing) | **Hard**       | **2.Knapsack**                 |                            |
 | 879  |         | [Profitable Schemes  ](https://leetcode.cn/problems/profitable-schemes) | **Hard**       | **2.Knapsack**                 |                            |
 | 956  |         | [Tallest Billboard  ](https://leetcode.cn/problems/tallest-billboard) | **Hard**       | **2.Knapsack**                 |                            |
@@ -58,7 +59,6 @@
 | 1024 | &#9745; | [Video Stitching  ](https://leetcode.cn/problems/video-stitching) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1027 | &#9745; | [Longest Arithmetic Subsequence  ](https://leetcode.cn/problems/longest-arithmetic-subsequence) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1140 | &#9745; | [Stone Game II  ](https://leetcode.cn/problems/stone-game-ii) | **Medium**     | **3.Multi Dimensions DP**      |                            |
-| 1155 |         | [Number of Dice Rolls With Target Sum  ](https://leetcode.cn/problems/number-of-dice-rolls-with-target-sum) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1223 |         | [Dice Roll Simulation  ](https://leetcode.cn/problems/dice-roll-simulation) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1621 |         | [Number of Sets of K Non-Overlapping Line Segments  ](https://leetcode.cn/problems/number-of-sets-of-k-non-overlapping-line-segments) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 188  | &#9745; | [Best Time to Buy and Sell Stock IV  ](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv) | **Hard**       | **3.Multi Dimensions DP**      |                            |
