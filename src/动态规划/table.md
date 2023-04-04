@@ -59,8 +59,7 @@
 | 1024 | &#9745; | [Video Stitching  ](https://leetcode.cn/problems/video-stitching) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1027 | &#9745; | [Longest Arithmetic Subsequence  ](https://leetcode.cn/problems/longest-arithmetic-subsequence) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 1140 | &#9745; | [Stone Game II  ](https://leetcode.cn/problems/stone-game-ii) | **Medium**     | **3.Multi Dimensions DP**      |                            |
-| 1223 |         | [Dice Roll Simulation  ](https://leetcode.cn/problems/dice-roll-simulation) | **Medium**     | **3.Multi Dimensions DP**      |                            |
-| 1621 |         | [Number of Sets of K Non-Overlapping Line Segments  ](https://leetcode.cn/problems/number-of-sets-of-k-non-overlapping-line-segments) | **Medium**     | **3.Multi Dimensions DP**      |                            |
+| 1621 | &#9745; | [Number of Sets of K Non-Overlapping Line Segments  ](https://leetcode.cn/problems/number-of-sets-of-k-non-overlapping-line-segments) | **Medium**     | **3.Multi Dimensions DP**      |                            |
 | 188  | &#9745; | [Best Time to Buy and Sell Stock IV  ](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv) | **Hard**       | **3.Multi Dimensions DP**      |                            |
 | 321  |         | [Create Maximum Number  ](https://leetcode.cn/problems/create-maximum-number) | **Hard**       | **3.Multi Dimensions DP**      |                            |
 | 403  | &#9745; | [Frog Jump  ](https://leetcode.cn/problems/frog-jump)        | **Hard**       | **3.Multi Dimensions DP**      |                            |
@@ -69,6 +68,7 @@
 | 871  | &#9745; | [Minimum Number of Refueling Stops  ](https://leetcode.cn/problems/minimum-number-of-refueling-stops) | **Hard**       | **3.Multi Dimensions DP**      |                            |
 | 920  |         | [Number of Music Playlists  ](https://leetcode.cn/problems/number-of-music-playlists) | **Hard**       | **3.Multi Dimensions DP**      |                            |
 | 1220 |         | [Count Vowels Permutation  ](https://leetcode.cn/problems/count-vowels-permutation) | **Hard**       | **3.Multi Dimensions DP**      |                            |
+| 1223 |         | [Dice Roll Simulation  ](https://leetcode.cn/problems/dice-roll-simulation) | **Hard**       | **3.Multi Dimensions DP**      |                            |
 | 1289 |         | [Minimum Falling Path Sum II  ](https://leetcode.cn/problems/minimum-falling-path-sum-ii) | **Hard**       | **3.Multi Dimensions DP**      |                            |
 | 1320 |         | [Minimum Distance to Type a Word Using Two Fingers  ](https://leetcode.cn/problems/minimum-distance-to-type-a-word-using-two-fingers) | **Hard**       | **3.Multi Dimensions DP**      |                            |
 | 1335 |         | [Minimum Difficulty of a Job Schedule  ](https://leetcode.cn/problems/minimum-difficulty-of-a-job-schedule) | **Hard**       | **3.Multi Dimensions DP**      |                            |

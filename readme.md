@@ -198,6 +198,8 @@ https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuS
 
 【1140】[石子游戏 II](https://leetcode.cn/problems/stone-game-ii/)
 
+【1621】[大小为 K 的不重叠线段的数目](https://leetcode.cn/problems/number-of-sets-of-k-non-overlapping-line-segments/)
+
 ### 0/1背包
 
 【0115】[不同的子序列](https://leetcode.cn/problems/distinct-subsequences/)
