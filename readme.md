@@ -236,6 +236,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0516】[最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/)
 
+【1039】[多边形三角剖分的最低得分](https://leetcode.cn/problems/minimum-score-triangulation-of-polygon/)
+
 ## 贪心
 
 【0045】[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)

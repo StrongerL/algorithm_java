@@ -83,7 +83,7 @@
 | 486  | &#9745; | [Predict the Winner  ](https://leetcode.cn/problems/predict-the-winner) | **Medium**     | **4.Interval DP**              |                            |
 | 647  | &#9745; | [Palindromic Substrings  ](https://leetcode.cn/problems/palindromic-substrings) | **Medium**     | **4.Interval DP**              |                            |
 | 877  | &#9745; | [Stone Game  ](https://leetcode.cn/problems/stone-game)      | **Medium**     | **4.Interval DP**              |                            |
-| 1039 |         | [Minimum Score Triangulation of Polygon  ](https://leetcode.cn/problems/minimum-score-triangulation-of-polygon) | **Medium**     | **4.Interval DP**              |                            |
+| 1039 | &#9745; | [Minimum Score Triangulation of Polygon  ](https://leetcode.cn/problems/minimum-score-triangulation-of-polygon) | **Medium**     | **4.Interval DP**              |                            |
 | 1049 | &#9745; | [Last Stone Weight II  ](https://leetcode.cn/problems/last-stone-weight-ii) | **Medium**     | **4.Interval DP**              |                            |
 | 1130 |         | [Minimum Cost Tree From Leaf Values  ](https://leetcode.cn/problems/minimum-cost-tree-from-leaf-values) | **Medium**     | **4.Interval DP**              |                            |
 | 1690 |         | [Stone Game VII  ](https://leetcode.cn/problems/stone-game-vii) | **Medium**     | **4.Interval DP**              |                            |
