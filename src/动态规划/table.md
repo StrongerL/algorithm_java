@@ -86,7 +86,7 @@
 | 1039 | &#9745; | [Minimum Score Triangulation of Polygon  ](https://leetcode.cn/problems/minimum-score-triangulation-of-polygon) | **Medium**     | **4.Interval DP**              |                            |
 | 1049 | &#9745; | [Last Stone Weight II  ](https://leetcode.cn/problems/last-stone-weight-ii) | **Medium**     | **4.Interval DP**              |                            |
 | 1130 | &#9745; | [Minimum Cost Tree From Leaf Values  ](https://leetcode.cn/problems/minimum-cost-tree-from-leaf-values) | **Medium**     | **4.Interval DP**              |                            |
-| 1690 |         | [Stone Game VII  ](https://leetcode.cn/problems/stone-game-vii) | **Medium**     | **4.Interval DP**              |                            |
+| 1690 | &#9745; | [Stone Game VII  ](https://leetcode.cn/problems/stone-game-vii) | **Medium**     | **4.Interval DP**              |                            |
 | 132  | &#9745; | [Palindrome Partitioning II  ](https://leetcode.cn/problems/palindrome-partitioning-ii) | **Hard**       | **4.Interval DP**              |                            |
 | 312  | &#9745; | [Burst Balloons  ](https://leetcode.cn/problems/burst-balloons) | **Hard**       | **4.Interval DP**              |                            |
 | 546  |         | [Remove Boxes  ](https://leetcode.cn/problems/remove-boxes)  | **Hard**       | **4.Interval DP**              |                            |

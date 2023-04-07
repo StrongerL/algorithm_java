@@ -240,6 +240,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【1130】[叶值的最小代价生成树](https://leetcode.cn/problems/minimum-cost-tree-from-leaf-values/)
 
+【1690】[石子游戏 VII](https://leetcode.cn/problems/stone-game-vii/)
+
 ## 贪心
 
 【0045】[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
