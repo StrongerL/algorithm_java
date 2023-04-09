@@ -116,7 +116,7 @@
 | 95   | &#9745; | [Unique Binary Search Trees II  ](https://leetcode.cn/problems/unique-binary-search-trees-ii) | **Medium**     | **7.DP on Trees**              |                            |
 | 337  | &#9745; | [House Robber III  ](https://leetcode.cn/problems/house-robber-iii) | **Medium**     | **7.DP on Trees**              |                            |
 | 1339 | &#9745; | [Maximum Product of Splitted Binary Tree  ](https://leetcode.cn/problems/maximum-product-of-splitted-binary-tree) | **Medium**     | **7.DP on Trees**              |                            |
-| 1367 |         | [Linked List in Binary Tree  ](https://leetcode.cn/problems/linked-list-in-binary-tree) | **Medium**     | **7.DP on Trees**              |                            |
+| 1367 | &#9745; | [Linked List in Binary Tree  ](https://leetcode.cn/problems/linked-list-in-binary-tree) | **Medium**     | **7.DP on Trees**              |                            |
 | 1372 |         | [Longest ZigZag Path in a Binary Tree  ](https://leetcode.cn/problems/longest-zigzag-path-in-a-binary-tree) | **Medium**     | **7.DP on Trees**              |                            |
 | 968  | &#9745; | [Binary Tree Cameras  ](https://leetcode.cn/problems/binary-tree-cameras) | **Hard**       | **7.DP on Trees**              |                            |
 | 1373 |         | [Maximum Sum BST in Binary Tree  ](https://leetcode.cn/problems/maximum-sum-bst-in-binary-tree) | **Hard**       | **7.DP on Trees**              |                            |

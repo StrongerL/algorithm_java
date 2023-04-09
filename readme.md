@@ -492,6 +492,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【1302】[层数最深叶子节点的和](https://leetcode.cn/problems/deepest-leaves-sum/)
 
+【1367】[二叉树中的链表](https://leetcode.cn/problems/linked-list-in-binary-tree/)
+
 【2265】[统计值等于子树平均值的节点数](https://leetcode-cn.com/problems/count-nodes-equal-to-average-of-subtree/)
 
 【剑指 Offer 07】[重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)
