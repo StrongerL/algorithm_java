@@ -246,6 +246,10 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【1690】[石子游戏 VII](https://leetcode.cn/problems/stone-game-vii/)
 
+### 字符串DP
+
+【0712】[两个字符串的最小ASCII删除和](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/)
+
 ## 贪心
 
 【0045】[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
