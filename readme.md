@@ -250,6 +250,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【0712】[两个字符串的最小ASCII删除和](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/)
 
+【1048】[最长字符串链](https://leetcode.cn/problems/longest-string-chain/)
+
 ## 贪心
 
 【0045】[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)
