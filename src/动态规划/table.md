@@ -128,7 +128,6 @@
 | 467  | &#9745; | [Unique Substrings in Wraparound String  ](https://leetcode.cn/problems/unique-substrings-in-wraparound-string) | **Medium**     | **8.String DP**                |                            |
 | 712  | &#9745; | [Minimum ASCII Delete Sum for Two Strings  ](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings) | **Medium**     | **8.String DP**                |                            |
 | 1048 | &#9745; | [Longest String Chain  ](https://leetcode.cn/problems/longest-string-chain) | **Medium**     | **8.String DP**                |                            |
-| 1405 |         | [Longest Happy String  ](https://leetcode.cn/problems/longest-happy-string) | **Medium**     | **8.String DP**                |                            |
 | 32   | &#9745; | [Longest Valid Parentheses  ](https://leetcode.cn/problems/longest-valid-parentheses) | **Hard**       | **8.String DP**                |                            |
 | 115  | &#9745; | [Distinct Subsequences  ](https://leetcode.cn/problems/distinct-subsequences) | **Hard**       | **8.String DP**                |                            |
 | 140  | &#9745; | [Word Break II  ](https://leetcode.cn/problems/word-break-ii) | **Hard**       | **8.String DP**                |                            |

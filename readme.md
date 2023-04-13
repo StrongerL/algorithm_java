@@ -264,6 +264,8 @@ TODO【0233】[数字 1 的个数](https://leetcode-cn.com/problems/number-of-di
 
 【1024】[视频拼接](https://leetcode.cn/problems/video-stitching/)
 
+【1405】[最长快乐字符串](https://leetcode.cn/problems/longest-happy-string/)
+
 【2216】[美化数组的最少删除数](https://leetcode-cn.com/problems/minimum-deletions-to-make-array-beautiful/)
 
 【2233】[K 次增加后的最大乘积](https://leetcode-cn.com/problems/maximum-product-after-k-increments/)
